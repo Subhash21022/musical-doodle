@@ -1,0 +1,3235 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-09-16",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bulawayo",
+    "dates": [
+      "2026-09-15"
+    ],
+    "event": {
+      "name": "South Africa Women tour of Zimbabwe",
+      "match_number": 3
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 3017,
+    "officials": {
+      "match_referees": [
+        "ET Dube"
+      ],
+      "reserve_umpires": [
+        "C Tlou"
+      ],
+      "umpires": [
+        "C Phiri",
+        "N Ndiweni"
+      ]
+    },
+    "outcome": {
+      "winner": "South Africa",
+      "by": {
+        "runs": 80
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "L Wolvaardt"
+    ],
+    "players": {
+      "South Africa": [
+        "L Wolvaardt",
+        "M Smit",
+        "K Meso",
+        "N Shangase",
+        "F Tunnicliffe",
+        "A Dercksen",
+        "K Reyneke",
+        "E Marx",
+        "S Naidu",
+        "LE Nzuza",
+        "A Hlubi"
+      ],
+      "Zimbabwe": [
+        "N Gwanzura",
+        "L Pemhiwa",
+        "K Ndlovu",
+        "B Biza",
+        "M Mupachikwa",
+        "L Tshuma",
+        "L Phiri",
+        "C Mutasa",
+        "M Mavunga",
+        "N Sibanda",
+        "T Makusha"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dercksen": "d2b1f515",
+        "A Hlubi": "ccaa3434",
+        "B Biza": "8a522c6c",
+        "C Mutasa": "1ba50005",
+        "C Phiri": "ade73404",
+        "C Tlou": "b08de60e",
+        "E Marx": "be592751",
+        "ET Dube": "4c0891bc",
+        "F Tunnicliffe": "41f534cd",
+        "Jae-Leigh Filander": "80c3f223",
+        "K Meso": "130336c6",
+        "K Ndlovu": "8d25271a",
+        "K Reyneke": "9e5f4ad7",
+        "L Pemhiwa": "02e712ce",
+        "L Phiri": "cca8bdca",
+        "L Tshuma": "f281dd00",
+        "L Wolvaardt": "e60f81c9",
+        "LE Nzuza": "0bb0a5ef",
+        "M Mavunga": "bb411d1e",
+        "M Mupachikwa": "6657b319",
+        "M Smit": "996ed07c",
+        "N Gwanzura": "9c2e3040",
+        "N Ndiweni": "f4e6fede",
+        "N Shangase": "b17a4a93",
+        "N Sibanda": "edf62a25",
+        "S Naidu": "ff20c3ed",
+        "T Makusha": "df15677b"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "South Africa",
+      "Zimbabwe"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "South Africa"
+    },
+    "venue": "Queens Sports Club, Bulawayo"
+  },
+  "innings": [
+    {
+      "team": "South Africa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "non_striker": "M Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "M Smit",
+              "bowler": "T Makusha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "M Smit",
+              "bowler": "T Makusha",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "non_striker": "M Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "M Smit",
+              "bowler": "T Makusha",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "M Smit",
+              "bowler": "T Makusha",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "non_striker": "M Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "M Smit",
+              "bowler": "T Makusha",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "L Wolvaardt",
+              "bowler": "N Sibanda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "L Wolvaardt",
+              "bowler": "N Sibanda",
+              "non_striker": "M Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "M Smit",
+              "bowler": "N Sibanda",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "L Wolvaardt",
+              "bowler": "N Sibanda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "L Wolvaardt",
+              "bowler": "N Sibanda",
+              "non_striker": "M Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "L Wolvaardt",
+              "bowler": "N Sibanda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "L Wolvaardt",
+              "bowler": "N Sibanda",
+              "non_striker": "M Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "M Smit",
+              "bowler": "N Sibanda",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "M Smit",
+              "bowler": "N Sibanda",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.1",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "non_striker": "M Smit",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "non_striker": "M Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "non_striker": "M Smit",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "non_striker": "M Smit",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "M Smit",
+              "bowler": "T Makusha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "M Smit",
+              "bowler": "T Makusha",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Smit",
+                  "fielders": [
+                    {
+                      "name": "L Tshuma"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "K Meso",
+              "bowler": "T Makusha",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "K Meso",
+              "bowler": "N Sibanda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "K Meso",
+              "bowler": "N Sibanda",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "K Meso",
+              "bowler": "N Sibanda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "K Meso",
+              "bowler": "N Sibanda",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "L Wolvaardt",
+              "bowler": "N Sibanda",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "K Meso",
+              "bowler": "N Sibanda",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "K Meso",
+              "bowler": "N Sibanda",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "K Meso",
+              "bowler": "N Sibanda",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "L Wolvaardt",
+              "bowler": "M Mavunga",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "K Meso",
+              "bowler": "M Mavunga",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "K Meso",
+              "bowler": "M Mavunga",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "K Meso",
+              "bowler": "M Mavunga",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "K Meso",
+              "bowler": "M Mavunga",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "K Meso",
+              "bowler": "M Mavunga",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "L Wolvaardt",
+              "bowler": "L Phiri",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "L Wolvaardt",
+              "bowler": "L Phiri",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "L Wolvaardt",
+              "bowler": "L Phiri",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "K Meso",
+              "bowler": "L Phiri",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "K Meso",
+              "bowler": "L Phiri",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "L Wolvaardt",
+              "bowler": "L Phiri",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "K Meso",
+              "bowler": "M Mavunga",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "K Meso",
+              "bowler": "M Mavunga",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "K Meso",
+              "bowler": "M Mavunga",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "K Meso",
+              "bowler": "M Mavunga",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "K Meso",
+              "bowler": "M Mavunga",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "K Meso",
+              "bowler": "M Mavunga",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "K Meso",
+              "bowler": "M Mavunga",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "K Meso",
+              "bowler": "L Phiri",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "K Meso",
+              "bowler": "L Phiri",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "K Meso",
+              "bowler": "L Phiri",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "L Wolvaardt",
+              "bowler": "L Phiri",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "L Wolvaardt",
+              "bowler": "L Phiri",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "L Wolvaardt",
+              "bowler": "L Phiri",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "K Meso",
+              "bowler": "N Gwanzura",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "L Wolvaardt",
+              "bowler": "N Gwanzura",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "L Wolvaardt",
+              "bowler": "N Gwanzura",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "L Wolvaardt",
+              "bowler": "N Gwanzura",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "K Meso",
+              "bowler": "N Gwanzura",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "K Meso",
+              "bowler": "N Gwanzura",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "K Meso",
+              "bowler": "B Biza",
+              "extras": {
+                "wides": 4
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.1",
+              "batter": "L Wolvaardt",
+              "bowler": "B Biza",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "L Wolvaardt",
+              "bowler": "B Biza",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "K Meso",
+              "bowler": "B Biza",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "L Wolvaardt",
+              "bowler": "B Biza",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "L Wolvaardt",
+              "bowler": "B Biza",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "K Meso",
+              "bowler": "B Biza",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "K Meso",
+              "bowler": "M Mavunga",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "K Meso",
+              "bowler": "M Mavunga",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "K Meso",
+              "bowler": "M Mavunga",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "L Wolvaardt",
+              "bowler": "M Mavunga",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "L Wolvaardt",
+              "bowler": "M Mavunga",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "L Wolvaardt",
+              "bowler": "M Mavunga",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "L Wolvaardt",
+              "bowler": "L Tshuma",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "L Wolvaardt",
+              "bowler": "L Tshuma",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "K Meso",
+              "bowler": "L Tshuma",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "L Wolvaardt",
+              "bowler": "L Tshuma",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "L Wolvaardt",
+              "bowler": "L Tshuma",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "L Wolvaardt",
+              "bowler": "L Tshuma",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "K Meso",
+              "bowler": "N Gwanzura",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "L Wolvaardt",
+              "bowler": "N Gwanzura",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "L Wolvaardt",
+              "bowler": "N Gwanzura",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "K Meso",
+              "bowler": "N Gwanzura",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "K Meso",
+              "bowler": "N Gwanzura",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "L Wolvaardt",
+              "bowler": "N Gwanzura",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "L Wolvaardt",
+              "bowler": "L Tshuma",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "K Meso",
+              "bowler": "L Tshuma",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "K Meso",
+              "bowler": "L Tshuma",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "K Meso",
+              "bowler": "L Tshuma",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "K Meso",
+              "bowler": "L Tshuma",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "L Wolvaardt",
+              "bowler": "L Tshuma",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "K Meso",
+              "bowler": "N Gwanzura",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "L Wolvaardt",
+              "bowler": "N Gwanzura",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "L Wolvaardt",
+              "bowler": "N Gwanzura",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "K Meso",
+              "bowler": "N Gwanzura",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "L Wolvaardt",
+              "bowler": "N Gwanzura",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "K Meso",
+              "bowler": "N Gwanzura",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "L Wolvaardt",
+              "bowler": "N Sibanda",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "L Wolvaardt",
+              "bowler": "N Sibanda",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "L Wolvaardt",
+              "bowler": "N Sibanda",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "L Wolvaardt",
+              "bowler": "N Sibanda",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "L Wolvaardt",
+              "bowler": "N Sibanda",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "L Wolvaardt",
+              "bowler": "N Sibanda",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "K Meso",
+              "bowler": "N Gwanzura",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "K Meso",
+              "bowler": "N Gwanzura",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "L Wolvaardt",
+              "bowler": "N Gwanzura",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "K Meso",
+              "bowler": "N Gwanzura",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "K Meso",
+              "bowler": "N Gwanzura",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "L Wolvaardt",
+              "bowler": "N Gwanzura",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "K Meso",
+              "bowler": "T Makusha",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "K Meso",
+              "bowler": "T Makusha",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "L Wolvaardt",
+              "bowler": "B Biza",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "K Meso",
+              "bowler": "B Biza",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "K Meso",
+              "bowler": "B Biza",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "L Wolvaardt",
+              "bowler": "B Biza",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "L Wolvaardt",
+              "bowler": "B Biza",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "K Meso",
+              "bowler": "B Biza",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "L Wolvaardt",
+              "bowler": "T Makusha",
+              "non_striker": "K Meso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "K Meso",
+              "bowler": "T Makusha",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Zimbabwe",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "N Gwanzura",
+              "bowler": "M Smit",
+              "non_striker": "L Pemhiwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "N Gwanzura",
+              "bowler": "M Smit",
+              "non_striker": "L Pemhiwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "N Gwanzura",
+              "bowler": "M Smit",
+              "non_striker": "L Pemhiwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Pemhiwa",
+                  "fielders": [
+                    {
+                      "name": "M Smit"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "N Gwanzura",
+              "bowler": "M Smit",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "N Gwanzura",
+              "bowler": "M Smit",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "N Gwanzura",
+              "bowler": "M Smit",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "K Ndlovu",
+              "bowler": "A Hlubi",
+              "non_striker": "N Gwanzura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "K Ndlovu",
+              "bowler": "A Hlubi",
+              "non_striker": "N Gwanzura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "K Ndlovu",
+              "bowler": "A Hlubi",
+              "non_striker": "N Gwanzura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "K Ndlovu",
+              "bowler": "A Hlubi",
+              "non_striker": "N Gwanzura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "K Ndlovu",
+              "bowler": "A Hlubi",
+              "non_striker": "N Gwanzura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "K Ndlovu",
+              "bowler": "A Hlubi",
+              "non_striker": "N Gwanzura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "N Gwanzura",
+              "bowler": "E Marx",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "N Gwanzura",
+              "bowler": "E Marx",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "N Gwanzura",
+              "bowler": "E Marx",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "N Gwanzura",
+              "bowler": "E Marx",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "N Gwanzura",
+              "bowler": "E Marx",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "N Gwanzura",
+              "bowler": "E Marx",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "K Ndlovu",
+              "bowler": "A Hlubi",
+              "non_striker": "N Gwanzura",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "N Gwanzura",
+              "bowler": "A Hlubi",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "N Gwanzura",
+              "bowler": "A Hlubi",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "N Gwanzura",
+              "bowler": "A Hlubi",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "N Gwanzura",
+              "bowler": "A Hlubi",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "N Gwanzura",
+              "bowler": "A Hlubi",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "K Ndlovu",
+              "bowler": "A Dercksen",
+              "non_striker": "N Gwanzura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "K Ndlovu",
+              "bowler": "A Dercksen",
+              "non_striker": "N Gwanzura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Ndlovu",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "B Biza",
+              "bowler": "A Dercksen",
+              "non_striker": "N Gwanzura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "B Biza",
+              "bowler": "A Dercksen",
+              "non_striker": "N Gwanzura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "B Biza",
+              "bowler": "A Dercksen",
+              "non_striker": "N Gwanzura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "B Biza",
+              "bowler": "A Dercksen",
+              "non_striker": "N Gwanzura",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Biza",
+                  "kind": "hit wicket"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "N Gwanzura",
+              "bowler": "E Marx",
+              "non_striker": "M Mupachikwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "N Gwanzura",
+              "bowler": "E Marx",
+              "non_striker": "M Mupachikwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "N Gwanzura",
+              "bowler": "E Marx",
+              "non_striker": "M Mupachikwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "N Gwanzura",
+              "bowler": "E Marx",
+              "non_striker": "M Mupachikwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "N Gwanzura",
+              "bowler": "E Marx",
+              "non_striker": "M Mupachikwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "N Gwanzura",
+              "bowler": "E Marx",
+              "non_striker": "M Mupachikwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Gwanzura",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "M Mupachikwa",
+              "bowler": "A Dercksen",
+              "non_striker": "L Tshuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "M Mupachikwa",
+              "bowler": "A Dercksen",
+              "non_striker": "L Tshuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "M Mupachikwa",
+              "bowler": "A Dercksen",
+              "non_striker": "L Tshuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "L Tshuma",
+              "bowler": "A Dercksen",
+              "non_striker": "M Mupachikwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "L Tshuma",
+              "bowler": "A Dercksen",
+              "non_striker": "M Mupachikwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Tshuma",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "L Phiri",
+              "bowler": "A Dercksen",
+              "non_striker": "M Mupachikwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "M Mupachikwa",
+              "bowler": "S Naidu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.1",
+              "batter": "M Mupachikwa",
+              "bowler": "S Naidu",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "M Mupachikwa",
+              "bowler": "S Naidu",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "M Mupachikwa",
+              "bowler": "S Naidu",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Mupachikwa",
+                  "fielders": [
+                    {
+                      "name": "K Meso"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "C Mutasa",
+              "bowler": "S Naidu",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "C Mutasa",
+              "bowler": "S Naidu",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "C Mutasa",
+              "bowler": "S Naidu",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "L Phiri",
+              "bowler": "LE Nzuza",
+              "non_striker": "C Mutasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "L Phiri",
+              "bowler": "LE Nzuza",
+              "non_striker": "C Mutasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "L Phiri",
+              "bowler": "LE Nzuza",
+              "non_striker": "C Mutasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "L Phiri",
+              "bowler": "LE Nzuza",
+              "non_striker": "C Mutasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "L Phiri",
+              "bowler": "LE Nzuza",
+              "non_striker": "C Mutasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "L Phiri",
+              "bowler": "LE Nzuza",
+              "non_striker": "C Mutasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "C Mutasa",
+              "bowler": "K Reyneke",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "C Mutasa",
+              "bowler": "K Reyneke",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "C Mutasa",
+              "bowler": "K Reyneke",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "C Mutasa",
+              "bowler": "K Reyneke",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "C Mutasa",
+              "bowler": "K Reyneke",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "C Mutasa",
+              "bowler": "K Reyneke",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "L Phiri",
+              "bowler": "A Dercksen",
+              "non_striker": "C Mutasa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "C Mutasa",
+              "bowler": "A Dercksen",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "C Mutasa",
+              "bowler": "A Dercksen",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "C Mutasa",
+              "bowler": "A Dercksen",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "C Mutasa",
+              "bowler": "A Dercksen",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "C Mutasa",
+              "bowler": "A Dercksen",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "L Phiri",
+              "bowler": "S Naidu",
+              "non_striker": "C Mutasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "L Phiri",
+              "bowler": "S Naidu",
+              "non_striker": "C Mutasa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "L Phiri",
+              "bowler": "S Naidu",
+              "non_striker": "C Mutasa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "C Mutasa",
+              "bowler": "S Naidu",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "L Phiri",
+              "bowler": "S Naidu",
+              "non_striker": "C Mutasa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "C Mutasa",
+              "bowler": "S Naidu",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "C Mutasa",
+              "bowler": "LE Nzuza",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "C Mutasa",
+              "bowler": "LE Nzuza",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "L Phiri",
+              "bowler": "LE Nzuza",
+              "non_striker": "C Mutasa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "C Mutasa",
+              "bowler": "LE Nzuza",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Mutasa",
+                  "fielders": [
+                    {
+                      "name": "N Shangase"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "M Mavunga",
+              "bowler": "LE Nzuza",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "M Mavunga",
+              "bowler": "LE Nzuza",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "M Mavunga",
+              "bowler": "A Hlubi",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "M Mavunga",
+              "bowler": "A Hlubi",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "M Mavunga",
+              "bowler": "A Hlubi",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "L Phiri",
+              "bowler": "A Hlubi",
+              "non_striker": "M Mavunga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "L Phiri",
+              "bowler": "A Hlubi",
+              "non_striker": "M Mavunga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "L Phiri",
+              "bowler": "A Hlubi",
+              "non_striker": "M Mavunga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "L Phiri",
+              "bowler": "LE Nzuza",
+              "non_striker": "M Mavunga",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "L Phiri",
+              "bowler": "LE Nzuza",
+              "non_striker": "M Mavunga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "M Mavunga",
+              "bowler": "LE Nzuza",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "M Mavunga",
+              "bowler": "LE Nzuza",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "L Phiri",
+              "bowler": "LE Nzuza",
+              "non_striker": "M Mavunga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "L Phiri",
+              "bowler": "LE Nzuza",
+              "non_striker": "M Mavunga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "M Mavunga",
+              "bowler": "E Marx",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "M Mavunga",
+              "bowler": "E Marx",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "M Mavunga",
+              "bowler": "E Marx",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "M Mavunga",
+              "bowler": "E Marx",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "M Mavunga",
+              "bowler": "E Marx",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "M Mavunga",
+              "bowler": "E Marx",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "L Phiri",
+              "bowler": "S Naidu",
+              "non_striker": "M Mavunga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "M Mavunga",
+              "bowler": "S Naidu",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "M Mavunga",
+              "bowler": "S Naidu",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "M Mavunga",
+              "bowler": "S Naidu",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "M Mavunga",
+              "bowler": "S Naidu",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "M Mavunga",
+              "bowler": "S Naidu",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "M Mavunga",
+              "bowler": "LE Nzuza",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "M Mavunga",
+              "bowler": "LE Nzuza",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "M Mavunga",
+              "bowler": "LE Nzuza",
+              "non_striker": "L Phiri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "L Phiri",
+              "bowler": "LE Nzuza",
+              "non_striker": "M Mavunga",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "L Phiri",
+              "bowler": "LE Nzuza",
+              "non_striker": "M Mavunga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "L Phiri",
+              "bowler": "LE Nzuza",
+              "non_striker": "M Mavunga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "L Phiri",
+              "bowler": "A Dercksen",
+              "non_striker": "M Mavunga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "L Phiri",
+              "bowler": "A Dercksen",
+              "non_striker": "M Mavunga",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Phiri",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "N Sibanda",
+              "bowler": "A Dercksen",
+              "non_striker": "M Mavunga",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "M Mavunga",
+              "bowler": "A Dercksen",
+              "non_striker": "N Sibanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "M Mavunga",
+              "bowler": "A Dercksen",
+              "non_striker": "N Sibanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Mavunga",
+                  "fielders": [
+                    {
+                      "name": "S Naidu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "T Makusha",
+              "bowler": "A Dercksen",
+              "non_striker": "N Sibanda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "N Sibanda",
+              "bowler": "A Hlubi",
+              "non_striker": "T Makusha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "T Makusha",
+              "bowler": "A Hlubi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "N Sibanda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "N Sibanda",
+              "bowler": "A Hlubi",
+              "non_striker": "T Makusha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Sibanda",
+                  "fielders": [
+                    {
+                      "name": "Jae-Leigh Filander",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 201
+      }
+    }
+  ]
+}

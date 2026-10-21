@@ -1,0 +1,1786 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-31",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Gelsenkirchen",
+    "dates": [
+      "2026-08-28"
+    ],
+    "event": {
+      "name": "Nordic Women T20 Cup",
+      "match_number": 1
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2972,
+    "officials": {
+      "reserve_umpires": [
+        "V Sridhar"
+      ],
+      "umpires": [
+        "M Loveday",
+        "N Dhanawade"
+      ]
+    },
+    "outcome": {
+      "winner": "Sweden",
+      "by": {
+        "runs": 14
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "H Shreya"
+    ],
+    "players": {
+      "Germany": [
+        "W Hornero-Garcia",
+        "Aanvi Kishore",
+        "S Kolcharam",
+        "N Kingsley",
+        "A Kohli",
+        "Rameesha Shahid",
+        "A Kanukuntla",
+        "V Stolle",
+        "Ashwini Balaji",
+        "ST Kannan",
+        "I Edwards"
+      ],
+      "Sweden": [
+        "A Vaidya",
+        "E Thelander",
+        "Eman Asim",
+        "H Chamto",
+        "Kanchan Rana",
+        "Zara Mohammad",
+        "Jayasooriya",
+        "Anjali Natarajan",
+        "Malyun Yusuf",
+        "H Shreya",
+        "DB Chhetri"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Kanukuntla": "2fa8a697",
+        "A Kohli": "eb9082b2",
+        "A Vaidya": "b7d8c07d",
+        "Aanvi Kishore": "b075b35d",
+        "Anjali Natarajan": "949988f5",
+        "Ashwini Balaji": "81283f75",
+        "DB Chhetri": "e383e204",
+        "E Thelander": "45cb4feb",
+        "Eman Asim": "fd8038e1",
+        "H Chamto": "5e181be6",
+        "H Shreya": "0e8f734c",
+        "I Edwards": "42095275",
+        "Jayasooriya": "39183970",
+        "Kanchan Rana": "d5d87f3f",
+        "M Loveday": "e4b126b0",
+        "Malyun Yusuf": "436527cd",
+        "N Dhanawade": "bc68912b",
+        "N Kingsley": "31036a1d",
+        "Rameesha Shahid": "b810425e",
+        "S Kolcharam": "761c929e",
+        "ST Kannan": "1304c2d6",
+        "V Sridhar": "42314166",
+        "V Stolle": "0dc4ac6c",
+        "W Hornero-Garcia": "7d5fef52",
+        "Zara Mohammad": "c9ca2bd7"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Germany",
+      "Sweden"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sweden"
+    },
+    "venue": "GelsenTrabPark, Gelsenkirchen"
+  },
+  "innings": [
+    {
+      "team": "Germany",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Malyun Yusuf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Malyun Yusuf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Malyun Yusuf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "W Hornero-Garcia",
+              "bowler": "H Chamto",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "W Hornero-Garcia",
+              "bowler": "H Chamto",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "W Hornero-Garcia",
+              "bowler": "H Chamto",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "W Hornero-Garcia",
+              "bowler": "H Chamto",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Aanvi Kishore",
+              "bowler": "H Chamto",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Aanvi Kishore",
+              "bowler": "H Chamto",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Aanvi Kishore",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Aanvi Kishore",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Aanvi Kishore",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Aanvi Kishore",
+              "bowler": "Malyun Yusuf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Aanvi Kishore",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "W Hornero-Garcia",
+              "bowler": "H Chamto",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Aanvi Kishore",
+              "bowler": "H Chamto",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Aanvi Kishore",
+              "bowler": "H Chamto",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Aanvi Kishore",
+              "bowler": "H Chamto",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Aanvi Kishore",
+              "bowler": "H Chamto",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Aanvi Kishore",
+              "bowler": "H Chamto",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "W Hornero-Garcia",
+              "bowler": "A Vaidya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "W Hornero-Garcia",
+              "bowler": "A Vaidya",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "W Hornero-Garcia",
+              "bowler": "A Vaidya",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Aanvi Kishore",
+              "bowler": "A Vaidya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Aanvi Kishore",
+              "bowler": "A Vaidya",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Aanvi Kishore",
+              "bowler": "A Vaidya",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Aanvi Kishore",
+              "bowler": "A Vaidya",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Aanvi Kishore",
+              "bowler": "A Vaidya",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "W Hornero-Garcia",
+              "bowler": "H Shreya",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Aanvi Kishore",
+              "bowler": "H Shreya",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Aanvi Kishore",
+              "bowler": "H Shreya",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Aanvi Kishore",
+              "bowler": "H Shreya",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aanvi Kishore",
+                  "fielders": [
+                    {
+                      "name": "E Thelander"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "S Kolcharam",
+              "bowler": "H Shreya",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "S Kolcharam",
+              "bowler": "H Shreya",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "S Kolcharam",
+              "bowler": "Kanchan Rana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "S Kolcharam",
+              "bowler": "Kanchan Rana",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "S Kolcharam",
+              "bowler": "Kanchan Rana",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Kolcharam",
+                  "fielders": [
+                    {
+                      "name": "Eman Asim"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "N Kingsley",
+              "bowler": "Kanchan Rana",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "N Kingsley",
+              "bowler": "Kanchan Rana",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "N Kingsley",
+              "bowler": "Kanchan Rana",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Kanchan Rana",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "W Hornero-Garcia",
+              "bowler": "H Shreya",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "W Hornero-Garcia",
+              "bowler": "H Shreya",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "N Kingsley",
+              "bowler": "H Shreya",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Kingsley",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "A Kohli",
+              "bowler": "H Shreya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "A Kohli",
+              "bowler": "H Shreya",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "A Kohli",
+              "bowler": "H Shreya",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "A Kohli",
+              "bowler": "H Shreya",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "A Kohli",
+              "bowler": "Kanchan Rana",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "A Kohli",
+              "bowler": "Kanchan Rana",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "A Kohli",
+              "bowler": "Kanchan Rana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "A Kohli",
+              "bowler": "Kanchan Rana",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "A Kohli",
+              "bowler": "Kanchan Rana",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Kanchan Rana",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Kanchan Rana",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "A Kohli",
+              "bowler": "DB Chhetri",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "A Kohli",
+              "bowler": "DB Chhetri",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Kohli",
+                  "fielders": [
+                    {
+                      "name": "Kanchan Rana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Rameesha Shahid",
+              "bowler": "DB Chhetri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Rameesha Shahid",
+              "bowler": "DB Chhetri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Rameesha Shahid",
+              "bowler": "DB Chhetri",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Rameesha Shahid",
+              "bowler": "DB Chhetri",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "W Hornero-Garcia",
+              "bowler": "DB Chhetri",
+              "non_striker": "Rameesha Shahid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Rameesha Shahid",
+              "bowler": "DB Chhetri",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "W Hornero-Garcia",
+              "bowler": "H Shreya",
+              "non_striker": "Rameesha Shahid",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "W Hornero-Garcia",
+              "bowler": "H Shreya",
+              "non_striker": "Rameesha Shahid",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Rameesha Shahid",
+              "bowler": "H Shreya",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Rameesha Shahid",
+              "bowler": "H Shreya",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rameesha Shahid",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "A Kanukuntla",
+              "bowler": "H Shreya",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "A Kanukuntla",
+              "bowler": "H Shreya",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "W Hornero-Garcia",
+              "bowler": "H Shreya",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "A Kanukuntla",
+                  "fielders": [
+                    {
+                      "name": "H Shreya"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.2,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sweden",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "A Vaidya",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "E Thelander",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "A Vaidya",
+              "bowler": "Rameesha Shahid",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Thelander",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "A Vaidya",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "E Thelander",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "E Thelander",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Thelander",
+                  "fielders": [
+                    {
+                      "name": "A Kanukuntla"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Eman Asim",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Eman Asim",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Eman Asim",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "A Vaidya",
+              "bowler": "ST Kannan",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "A Vaidya",
+              "bowler": "ST Kannan",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "A Vaidya",
+              "bowler": "ST Kannan",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "A Vaidya",
+              "bowler": "ST Kannan",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "A Vaidya",
+              "bowler": "ST Kannan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "A Vaidya",
+              "bowler": "ST Kannan",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Eman Asim",
+              "bowler": "ST Kannan",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "A Vaidya",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "A Vaidya",
+              "bowler": "Rameesha Shahid",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "A Vaidya",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Eman Asim",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Eman Asim",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Eman Asim",
+              "bowler": "Rameesha Shahid",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Eman Asim",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "A Vaidya",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Eman Asim",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Eman Asim",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Eman Asim",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Eman Asim",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Eman Asim",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "A Vaidya",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Eman Asim",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Eman Asim",
+              "bowler": "Rameesha Shahid",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Eman Asim",
+              "bowler": "Rameesha Shahid",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Eman Asim",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "A Vaidya",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "A Vaidya",
+              "bowler": "Rameesha Shahid",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "A Vaidya",
+              "bowler": "Rameesha Shahid",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "A Vaidya",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Eman Asim",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Eman Asim",
+              "bowler": "Rameesha Shahid",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Eman Asim",
+              "bowler": "I Edwards",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Eman Asim",
+              "bowler": "I Edwards",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Eman Asim",
+              "bowler": "I Edwards",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "A Vaidya",
+              "bowler": "I Edwards",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "A Vaidya",
+              "bowler": "I Edwards",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Eman Asim",
+              "bowler": "I Edwards",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Eman Asim",
+              "bowler": "Ashwini Balaji",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Eman Asim",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Eman Asim",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Eman Asim",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Eman Asim",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Eman Asim",
+              "bowler": "Ashwini Balaji",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "A Vaidya",
+              "bowler": "A Kohli",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.2,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 7.1,
+        "runs": 58
+      }
+    }
+  ]
+}

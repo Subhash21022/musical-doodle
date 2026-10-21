@@ -1,0 +1,23 @@
+{
+  "title": "Cricket Pitch and Weather Performance Benchmark",
+  "id": "sports-analytics/cricket-pitch-weather-performance-benchmark",
+  "subtitle": "Ball-by-ball T20 and IPL outcomes linked with venue altitude, boundary dimensions, pitch soil, and weather physics",
+  "description": "A research-grade benchmark dataset combining pitch characteristics (soil type, bounce, grass), hourly ambient weather, surface air density, venue altitude, boundary distances, and 1.6M+ ball-by-ball deliveries across the Indian Premier League (IPL) and Men's T20 Internationals.",
+  "isPrivate": false,
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "cricket",
+    "ipl",
+    "t20",
+    "sports-science",
+    "weather",
+    "physics",
+    "ball-by-ball",
+    "pitch-conditions",
+    "aerodynamics"
+  ]
+}

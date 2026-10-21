@@ -1,0 +1,3102 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2026-09-27",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Nisshin",
+    "dates": [
+      "2026-09-20"
+    ],
+    "event": {
+      "name": "Asian Games Women's Cricket Competition",
+      "stage": "Semi Final"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 3023,
+    "officials": {
+      "match_referees": [
+        "SR Das"
+      ],
+      "reserve_umpires": [
+        "N Perera"
+      ],
+      "tv_umpires": [
+        "Gayathri Venugopal"
+      ],
+      "umpires": [
+        "Shathira Jakir",
+        "Shivani Mishra"
+      ]
+    },
+    "outcome": {
+      "winner": "Sri Lanka",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Pakistan": [
+        "Gull Feroza",
+        "Shawaal Zulfiqar",
+        "Saira Jabeen",
+        "Ayesha Zafar",
+        "Fatima Sana",
+        "Eyman Fatima",
+        "Umm-e-Hani",
+        "Tuba Hassan",
+        "Nashra Sandhu",
+        "Momina Riasat",
+        "Aliya Riaz"
+      ],
+      "Sri Lanka": [
+        "I Dulani",
+        "AC Jayangani",
+        "GWHM Perera",
+        "H Madavi",
+        "WK Dilhari",
+        "H Karunaratne",
+        "M Ayodhya",
+        "EMKNH Senavirathna",
+        "C Praboda",
+        "BMSM Kumari",
+        "K Kavindi"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AC Jayangani": "ac56b5a7",
+        "Aliya Riaz": "2904b4b6",
+        "Ayesha Zafar": "e15f4fa4",
+        "BMSM Kumari": "b55fb828",
+        "C Praboda": "369b8bfc",
+        "EMKNH Senavirathna": "ec691a5b",
+        "Eyman Fatima": "4357f6f8",
+        "Fatima Sana": "ea9c54de",
+        "GWHM Perera": "53068b45",
+        "Gayathri Venugopal": "20e3ae99",
+        "Gull Feroza": "9ff1e91e",
+        "H Karunaratne": "f8e27d4a",
+        "H Madavi": "85021bcd",
+        "I Dulani": "a2c23f31",
+        "K Kavindi": "2fa916b3",
+        "M Ayodhya": "843e067e",
+        "Momina Riasat": "27a9eb25",
+        "N Perera": "129709f9",
+        "Nashra Sandhu": "c981d3c2",
+        "R Sewwandi": "c88d3ef1",
+        "SR Das": "f4e52218",
+        "Saira Jabeen": "e4ff6a62",
+        "Shathira Jakir": "6b992a6f",
+        "Shawaal Zulfiqar": "adb2f55e",
+        "Shivani Mishra": "2982a0c7",
+        "Tuba Hassan": "0d56e9a5",
+        "Umm-e-Hani": "6ee11109",
+        "WK Dilhari": "c34a15e6"
+      },
+      "venues": {
+        "Korogi Sports Park": "bef5bb0f"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Pakistan",
+      "Sri Lanka"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sri Lanka"
+    },
+    "venue": "Korogi Sports Park"
+  },
+  "innings": [
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Gull Feroza",
+              "bowler": "BMSM Kumari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "Gull Feroza",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Gull Feroza",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Saira Jabeen",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Saira Jabeen",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Saira Jabeen",
+              "bowler": "M Ayodhya",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "M Ayodhya",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "M Ayodhya",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "M Ayodhya",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "M Ayodhya",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "M Ayodhya",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Saira Jabeen",
+              "bowler": "BMSM Kumari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Saira Jabeen",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Saira Jabeen",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Saira Jabeen",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Saira Jabeen",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Saira Jabeen",
+              "bowler": "AC Jayangani",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Saira Jabeen",
+              "bowler": "AC Jayangani",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "C Praboda",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Saira Jabeen",
+              "bowler": "C Praboda",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "C Praboda",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Saira Jabeen",
+              "bowler": "C Praboda",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Saira Jabeen",
+              "bowler": "C Praboda",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "C Praboda",
+              "non_striker": "Saira Jabeen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Saira Jabeen",
+              "bowler": "AC Jayangani",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Saira Jabeen",
+              "bowler": "AC Jayangani",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Saira Jabeen",
+                  "fielders": [
+                    {
+                      "name": "H Madavi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Ayesha Zafar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Ayesha Zafar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Ayesha Zafar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Ayesha Zafar",
+              "bowler": "M Ayodhya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "Ayesha Zafar",
+              "bowler": "M Ayodhya",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "M Ayodhya",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Ayesha Zafar",
+              "bowler": "M Ayodhya",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "M Ayodhya",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Ayesha Zafar",
+              "bowler": "M Ayodhya",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Ayesha Zafar",
+              "bowler": "M Ayodhya",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Ayesha Zafar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Ayesha Zafar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Ayesha Zafar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Ayesha Zafar",
+              "bowler": "C Praboda",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Ayesha Zafar",
+              "bowler": "C Praboda",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "C Praboda",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "C Praboda",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Ayesha Zafar",
+              "bowler": "C Praboda",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "C Praboda",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Ayesha Zafar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Ayesha Zafar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Ayesha Zafar",
+              "bowler": "WK Dilhari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Ayesha Zafar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Ayesha Zafar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "H Karunaratne",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "H Karunaratne",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Ayesha Zafar",
+              "bowler": "H Karunaratne",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "H Karunaratne",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Ayesha Zafar",
+              "bowler": "H Karunaratne",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Ayesha Zafar",
+              "bowler": "H Karunaratne",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Ayesha Zafar",
+              "bowler": "H Karunaratne",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Ayesha Zafar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Ayesha Zafar",
+              "bowler": "WK Dilhari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Ayesha Zafar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Ayesha Zafar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Ayesha Zafar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Ayesha Zafar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Ayesha Zafar",
+              "bowler": "WK Dilhari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "C Praboda",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Ayesha Zafar",
+              "bowler": "C Praboda",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "C Praboda",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Ayesha Zafar",
+              "bowler": "C Praboda",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Ayesha Zafar",
+              "bowler": "C Praboda",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "C Praboda",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Ayesha Zafar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "AC Jayangani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Ayesha Zafar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Ayesha Zafar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "K Kavindi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.1",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "K Kavindi",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "K Kavindi",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Ayesha Zafar",
+              "bowler": "K Kavindi",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "K Kavindi",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "K Kavindi",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Ayesha Zafar",
+              "bowler": "K Kavindi",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Ayesha Zafar",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Ayesha Zafar",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Ayesha Zafar",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "C Praboda",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Ayesha Zafar",
+              "bowler": "C Praboda",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "C Praboda",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "C Praboda",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "C Praboda",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Ayesha Zafar",
+              "bowler": "C Praboda",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ayesha Zafar",
+                  "fielders": [
+                    {
+                      "name": "WK Dilhari"
+                    },
+                    {
+                      "name": "C Praboda"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Fatima Sana",
+              "bowler": "AC Jayangani",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Fatima Sana",
+              "bowler": "AC Jayangani",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Fatima Sana",
+              "bowler": "AC Jayangani",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "AC Jayangani",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Fatima Sana",
+              "bowler": "AC Jayangani",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Fatima Sana",
+              "bowler": "K Kavindi",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Fatima Sana",
+              "bowler": "K Kavindi",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Fatima Sana",
+              "bowler": "K Kavindi",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "K Kavindi",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shawaal Zulfiqar",
+                  "fielders": [
+                    {
+                      "name": "R Sewwandi",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Eyman Fatima",
+              "bowler": "K Kavindi",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Fatima Sana",
+              "bowler": "K Kavindi",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Fatima Sana",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Fatima Sana",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Fatima Sana",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Fatima Sana",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Eyman Fatima",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Eyman Fatima",
+              "bowler": "BMSM Kumari",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sri Lanka",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "I Dulani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "AC Jayangani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "AC Jayangani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "AC Jayangani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "I Dulani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "I Dulani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "AC Jayangani",
+              "bowler": "Fatima Sana",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "AC Jayangani",
+              "bowler": "Fatima Sana",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "I Dulani",
+              "bowler": "Fatima Sana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "I Dulani",
+              "bowler": "Fatima Sana",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "I Dulani",
+              "bowler": "Fatima Sana",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "I Dulani",
+              "bowler": "Fatima Sana",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "I Dulani",
+              "bowler": "Fatima Sana",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "I Dulani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "I Dulani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "I Dulani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "I Dulani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "AC Jayangani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "AC Jayangani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "I Dulani",
+              "bowler": "Momina Riasat",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "I Dulani",
+              "bowler": "Momina Riasat",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "AC Jayangani",
+              "bowler": "Momina Riasat",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "AC Jayangani",
+              "bowler": "Momina Riasat",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "I Dulani",
+              "bowler": "Momina Riasat",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "I Dulani",
+              "bowler": "Momina Riasat",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "I Dulani",
+              "bowler": "Momina Riasat",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "AC Jayangani",
+              "bowler": "Momina Riasat",
+              "non_striker": "I Dulani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "I Dulani",
+              "bowler": "Momina Riasat",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "I Dulani",
+              "bowler": "Fatima Sana",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "I Dulani",
+              "bowler": "Fatima Sana",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "I Dulani",
+              "bowler": "Fatima Sana",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "I Dulani",
+              "bowler": "Fatima Sana",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Dulani",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "GWHM Perera",
+              "bowler": "Fatima Sana",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "AC Jayangani",
+              "bowler": "Fatima Sana",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "GWHM Perera",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "GWHM Perera",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "AC Jayangani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "AC Jayangani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "GWHM Perera",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "GWHM Perera",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "AC Jayangani",
+              "bowler": "Tuba Hassan",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "AC Jayangani",
+              "bowler": "Tuba Hassan",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "AC Jayangani",
+              "bowler": "Tuba Hassan",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "GWHM Perera",
+              "bowler": "Tuba Hassan",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "GWHM Perera",
+              "bowler": "Tuba Hassan",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "GWHM Perera",
+              "bowler": "Tuba Hassan",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "AC Jayangani",
+              "bowler": "Momina Riasat",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "AC Jayangani",
+              "bowler": "Momina Riasat",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "AC Jayangani",
+              "bowler": "Momina Riasat",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "AC Jayangani",
+              "bowler": "Momina Riasat",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "AC Jayangani",
+              "bowler": "Momina Riasat",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "AC Jayangani",
+              "bowler": "Momina Riasat",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "GWHM Perera",
+              "bowler": "Tuba Hassan",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "AC Jayangani",
+              "bowler": "Tuba Hassan",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "AC Jayangani",
+              "bowler": "Tuba Hassan",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "GWHM Perera",
+              "bowler": "Tuba Hassan",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "AC Jayangani",
+              "bowler": "Tuba Hassan",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "GWHM Perera",
+              "bowler": "Tuba Hassan",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "AC Jayangani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "AC Jayangani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "AC Jayangani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "AC Jayangani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "AC Jayangani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "AC Jayangani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "GWHM Perera",
+              "bowler": "Tuba Hassan",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "AC Jayangani",
+              "bowler": "Tuba Hassan",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "GWHM Perera",
+              "bowler": "Tuba Hassan",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "AC Jayangani",
+              "bowler": "Tuba Hassan",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "GWHM Perera",
+              "bowler": "Tuba Hassan",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "GWHM Perera",
+              "bowler": "Tuba Hassan",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "AC Jayangani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "GWHM Perera",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "AC Jayangani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "AC Jayangani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "AC Jayangani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "GWHM Perera",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "GWHM Perera",
+              "bowler": "Tuba Hassan",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "GWHM Perera",
+              "bowler": "Tuba Hassan",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "GWHM Perera",
+              "bowler": "Tuba Hassan",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "GWHM Perera",
+              "bowler": "Tuba Hassan",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "GWHM Perera",
+              "bowler": "Tuba Hassan",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "GWHM Perera",
+              "bowler": "Tuba Hassan",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "GWHM Perera",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "AC Jayangani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "AC Jayangani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "GWHM Perera",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "AC Jayangani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "GWHM Perera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "GWHM Perera",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GWHM Perera",
+                  "fielders": [
+                    {
+                      "name": "Umm-e-Hani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "AC Jayangani",
+              "bowler": "Fatima Sana",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "AC Jayangani",
+              "bowler": "Fatima Sana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "AC Jayangani",
+              "bowler": "Fatima Sana",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "AC Jayangani",
+              "bowler": "Fatima Sana",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "AC Jayangani",
+              "bowler": "Fatima Sana",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "AC Jayangani",
+              "bowler": "Fatima Sana",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "H Madavi",
+              "bowler": "Fatima Sana",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "H Madavi",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "AC Jayangani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "AC Jayangani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "AC Jayangani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "AC Jayangani",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "H Madavi",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "H Madavi",
+              "bowler": "Ayesha Zafar",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "AC Jayangani",
+              "bowler": "Ayesha Zafar",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "H Madavi",
+              "bowler": "Ayesha Zafar",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "H Madavi",
+              "bowler": "Ayesha Zafar",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "H Madavi",
+              "bowler": "Ayesha Zafar",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "AC Jayangani",
+              "bowler": "Ayesha Zafar",
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "H Madavi",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "H Madavi",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "H Madavi",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "AC Jayangani",
+              "bowler": "Nashra Sandhu",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "H Madavi",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "H Madavi",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "H Madavi",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AC Jayangani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 178
+      }
+    }
+  ]
+}

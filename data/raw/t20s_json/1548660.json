@@ -1,0 +1,3440 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-31",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Gelsenkirchen",
+    "dates": [
+      "2026-08-29"
+    ],
+    "event": {
+      "name": "Nordic Women T20 Cup",
+      "match_number": 3
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2978,
+    "officials": {
+      "reserve_umpires": [
+        "N Dhanawade"
+      ],
+      "umpires": [
+        "M Loveday",
+        "V Sridhar"
+      ]
+    },
+    "outcome": {
+      "winner": "Denmark",
+      "by": {
+        "wickets": 2
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Frida Larsen"
+    ],
+    "players": {
+      "Germany": [
+        "W Hornero-Garcia",
+        "Aanvi Kishore",
+        "S Kolcharam",
+        "A Kanukuntla",
+        "A Kohli",
+        "N Kingsley",
+        "K Simone-Kingsley",
+        "Rameesha Shahid",
+        "V Stolle",
+        "A Meyenborg",
+        "Meghana Lakayil"
+      ],
+      "Denmark": [
+        "L Ostergaard",
+        "Frida Larsen",
+        "Thea Larsen",
+        "S Ostergaard",
+        "AB Slebsager",
+        "K Pandya",
+        "Farhat Afroz",
+        "NP Dalgaard",
+        "ML Karlsen",
+        "D Golechha",
+        "S Munagala"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Kanukuntla": "2fa8a697",
+        "A Kohli": "eb9082b2",
+        "A Meyenborg": "edbc9441",
+        "AB Slebsager": "4ae7048b",
+        "Aanvi Kishore": "b075b35d",
+        "D Golechha": "c2c12f2a",
+        "Farhat Afroz": "f65e75df",
+        "Frida Larsen": "1775e31e",
+        "K Pandya": "75b4acc8",
+        "K Simone-Kingsley": "1ce0fb02",
+        "L Ostergaard": "3a5160d9",
+        "M Loveday": "e4b126b0",
+        "ML Karlsen": "4302af3d",
+        "Meghana Lakayil": "05e417e7",
+        "N Dhanawade": "bc68912b",
+        "N Kingsley": "31036a1d",
+        "NP Dalgaard": "40283617",
+        "Rameesha Shahid": "b810425e",
+        "S Kolcharam": "761c929e",
+        "S Munagala": "0b010809",
+        "S Ostergaard": "a19e799b",
+        "Thea Larsen": "bbd31c8f",
+        "V Sridhar": "42314166",
+        "V Stolle": "0dc4ac6c",
+        "W Hornero-Garcia": "7d5fef52"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Germany",
+      "Denmark"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Germany"
+    },
+    "venue": "GelsenTrabPark, Gelsenkirchen"
+  },
+  "innings": [
+    {
+      "team": "Germany",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "W Hornero-Garcia",
+              "bowler": "D Golechha",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "W Hornero-Garcia",
+              "bowler": "D Golechha",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "W Hornero-Garcia",
+              "bowler": "D Golechha",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "W Hornero-Garcia",
+              "bowler": "D Golechha",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "W Hornero-Garcia",
+              "bowler": "D Golechha",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "W Hornero-Garcia",
+              "bowler": "D Golechha",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Frida Larsen",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Frida Larsen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Frida Larsen",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Frida Larsen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Frida Larsen",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Frida Larsen",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Frida Larsen",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Frida Larsen",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "W Hornero-Garcia",
+              "bowler": "D Golechha",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Aanvi Kishore",
+              "bowler": "D Golechha",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Aanvi Kishore",
+              "bowler": "D Golechha",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Aanvi Kishore",
+              "bowler": "D Golechha",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Aanvi Kishore",
+              "bowler": "D Golechha",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Aanvi Kishore",
+              "bowler": "D Golechha",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Frida Larsen",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Frida Larsen",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Aanvi Kishore",
+              "bowler": "Frida Larsen",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Aanvi Kishore",
+              "bowler": "Frida Larsen",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Aanvi Kishore",
+              "bowler": "Frida Larsen",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "W Hornero-Garcia",
+              "bowler": "Frida Larsen",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Aanvi Kishore",
+              "bowler": "Frida Larsen",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Aanvi Kishore",
+              "bowler": "D Golechha",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Aanvi Kishore",
+              "bowler": "D Golechha",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Aanvi Kishore",
+              "bowler": "D Golechha",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Aanvi Kishore",
+              "bowler": "D Golechha",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Aanvi Kishore",
+              "bowler": "D Golechha",
+              "non_striker": "W Hornero-Garcia",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "W Hornero-Garcia",
+              "bowler": "D Golechha",
+              "non_striker": "Aanvi Kishore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "W Hornero-Garcia",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Aanvi Kishore",
+              "bowler": "Frida Larsen",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Aanvi Kishore",
+              "bowler": "Frida Larsen",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Aanvi Kishore",
+              "bowler": "Frida Larsen",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Aanvi Kishore",
+              "bowler": "Frida Larsen",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aanvi Kishore",
+                  "fielders": [
+                    {
+                      "name": "K Pandya"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "A Kanukuntla",
+              "bowler": "Frida Larsen",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "A Kanukuntla",
+              "bowler": "Frida Larsen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "A Kanukuntla",
+              "bowler": "Frida Larsen",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "A Kanukuntla",
+              "bowler": "Thea Larsen",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "A Kanukuntla",
+              "bowler": "Thea Larsen",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "A Kanukuntla",
+              "bowler": "Thea Larsen",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "A Kanukuntla",
+              "bowler": "Thea Larsen",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "S Kolcharam",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "S Kolcharam",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "A Kanukuntla",
+              "bowler": "NP Dalgaard",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "A Kanukuntla",
+              "bowler": "NP Dalgaard",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "A Kanukuntla",
+              "bowler": "NP Dalgaard",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "A Kanukuntla",
+              "bowler": "NP Dalgaard",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "S Kolcharam",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "S Kolcharam",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "S Kolcharam",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "S Kolcharam",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "A Kanukuntla",
+              "bowler": "Thea Larsen",
+              "non_striker": "S Kolcharam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "S Kolcharam",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "S Kolcharam",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Kolcharam",
+                  "kind": "hit wicket"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "A Kohli",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "A Kanukuntla",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "A Kanukuntla",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "A Kanukuntla",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "A Kohli",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "A Kohli",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "A Kohli",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "A Kanukuntla",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "A Kohli",
+              "bowler": "Thea Larsen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "A Kohli",
+              "bowler": "Thea Larsen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "A Kohli",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "A Kanukuntla",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "A Kohli",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "A Kanukuntla",
+              "bowler": "Thea Larsen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "A Kanukuntla",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "A Kanukuntla",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "A Kanukuntla",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "A Kanukuntla",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "A Kanukuntla",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "A Kanukuntla",
+              "bowler": "NP Dalgaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "A Kanukuntla",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "A Kohli",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "A Kohli",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "A Kanukuntla",
+              "bowler": "AB Slebsager",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "A Kohli",
+              "bowler": "AB Slebsager",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "A Kohli",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "A Kohli",
+              "bowler": "AB Slebsager",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "A Kanukuntla",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "A Kanukuntla",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "A Kanukuntla",
+              "bowler": "AB Slebsager",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "A Kanukuntla",
+              "bowler": "AB Slebsager",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "A Kohli",
+              "bowler": "AB Slebsager",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "A Kohli",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "A Kohli",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kanukuntla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Kanukuntla",
+                  "fielders": [
+                    {
+                      "name": "K Pandya"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "N Kingsley",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "N Kingsley",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "A Kohli",
+              "bowler": "NP Dalgaard",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "N Kingsley",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "A Kohli",
+              "bowler": "AB Slebsager",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "N Kingsley",
+              "bowler": "AB Slebsager",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "N Kingsley",
+              "bowler": "AB Slebsager",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "A Kohli",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "A Kohli",
+              "bowler": "AB Slebsager",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "N Kingsley",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "N Kingsley",
+              "bowler": "AB Slebsager",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "A Kohli",
+              "bowler": "AB Slebsager",
+              "non_striker": "N Kingsley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "N Kingsley",
+              "bowler": "S Munagala",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "N Kingsley",
+              "bowler": "S Munagala",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "N Kingsley",
+              "bowler": "S Munagala",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Kingsley",
+                  "fielders": [
+                    {
+                      "name": "L Ostergaard"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "K Simone-Kingsley",
+              "bowler": "S Munagala",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "K Simone-Kingsley",
+              "bowler": "S Munagala",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Simone-Kingsley",
+                  "fielders": [
+                    {
+                      "name": "ML Karlsen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Rameesha Shahid",
+              "bowler": "S Munagala",
+              "non_striker": "A Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rameesha Shahid",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "A Kohli",
+              "bowler": "Frida Larsen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.1",
+              "batter": "A Kohli",
+              "bowler": "Frida Larsen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.1",
+              "batter": "A Kohli",
+              "bowler": "Frida Larsen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.1",
+              "batter": "A Kohli",
+              "bowler": "Frida Larsen",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "A Kohli",
+              "bowler": "Frida Larsen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "A Kohli",
+              "bowler": "Frida Larsen",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Kohli",
+                  "fielders": [
+                    {
+                      "name": "ML Karlsen"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "A Meyenborg",
+              "bowler": "Frida Larsen",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "A Meyenborg",
+              "bowler": "Frida Larsen",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "A Meyenborg",
+              "bowler": "Frida Larsen",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "A Meyenborg",
+              "bowler": "Frida Larsen",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "A Meyenborg",
+              "bowler": "S Munagala",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "A Meyenborg",
+              "bowler": "S Munagala",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Meyenborg",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Meghana Lakayil",
+              "bowler": "S Munagala",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Meghana Lakayil",
+              "bowler": "S Munagala",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Meghana Lakayil",
+              "bowler": "S Munagala",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "V Stolle",
+              "bowler": "S Munagala",
+              "non_striker": "Meghana Lakayil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "V Stolle",
+              "bowler": "D Golechha",
+              "non_striker": "Meghana Lakayil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "Meghana Lakayil",
+              "bowler": "D Golechha",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "V Stolle",
+              "bowler": "D Golechha",
+              "non_striker": "Meghana Lakayil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Meghana Lakayil",
+              "bowler": "D Golechha",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Meghana Lakayil",
+              "bowler": "D Golechha",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "V Stolle",
+              "bowler": "D Golechha",
+              "non_striker": "Meghana Lakayil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "V Stolle",
+              "bowler": "S Munagala",
+              "non_striker": "Meghana Lakayil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Meghana Lakayil",
+              "bowler": "S Munagala",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "V Stolle",
+              "bowler": "S Munagala",
+              "non_striker": "Meghana Lakayil",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "V Stolle",
+              "bowler": "S Munagala",
+              "non_striker": "Meghana Lakayil",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Meghana Lakayil",
+              "bowler": "S Munagala",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Meghana Lakayil",
+              "bowler": "S Munagala",
+              "non_striker": "V Stolle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Denmark",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "L Ostergaard",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "L Ostergaard",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "L Ostergaard",
+              "bowler": "A Kanukuntla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "L Ostergaard",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "L Ostergaard",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "L Ostergaard",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "L Ostergaard",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Ostergaard",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Thea Larsen",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Thea Larsen",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Frida Larsen",
+              "bowler": "A Kohli",
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Frida Larsen",
+              "bowler": "A Kohli",
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.1",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Thea Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Thea Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Thea Larsen",
+                  "fielders": [
+                    {
+                      "name": "W Hornero-Garcia"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "S Ostergaard",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "S Ostergaard",
+              "bowler": "A Kohli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "S Ostergaard",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "S Ostergaard",
+              "bowler": "A Kohli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "S Ostergaard",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "S Ostergaard",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "S Ostergaard",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "S Ostergaard",
+              "bowler": "A Kohli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "S Ostergaard",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "S Ostergaard",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Frida Larsen",
+              "bowler": "A Meyenborg",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Frida Larsen",
+              "bowler": "A Meyenborg",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Frida Larsen",
+              "bowler": "A Meyenborg",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "S Ostergaard",
+              "bowler": "A Meyenborg",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Ostergaard",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "AB Slebsager",
+              "bowler": "A Meyenborg",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "AB Slebsager",
+              "bowler": "A Meyenborg",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "AB Slebsager",
+              "bowler": "A Meyenborg",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Frida Larsen",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Frida Larsen",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Frida Larsen",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Frida Larsen",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Frida Larsen",
+              "bowler": "Meghana Lakayil",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Frida Larsen",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Frida Larsen",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Frida Larsen",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Frida Larsen",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "AB Slebsager",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "AB Slebsager",
+              "bowler": "W Hornero-Garcia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "AB Slebsager",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "AB Slebsager",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Frida Larsen",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Frida Larsen",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Frida Larsen",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "AB Slebsager",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "AB Slebsager",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Frida Larsen",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Frida Larsen",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "AB Slebsager",
+              "bowler": "A Meyenborg",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "AB Slebsager",
+              "bowler": "A Meyenborg",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "AB Slebsager",
+              "bowler": "A Meyenborg",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Frida Larsen",
+              "bowler": "A Meyenborg",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Frida Larsen",
+              "bowler": "A Meyenborg",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "AB Slebsager",
+              "bowler": "A Meyenborg",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Frida Larsen",
+              "bowler": "A Kohli",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "AB Slebsager",
+              "bowler": "A Kohli",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "AB Slebsager",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "AB Slebsager",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Frida Larsen",
+              "bowler": "A Kohli",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "AB Slebsager",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "AB Slebsager",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Frida Larsen",
+              "bowler": "A Meyenborg",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "AB Slebsager",
+              "bowler": "A Meyenborg",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "AB Slebsager",
+              "bowler": "A Meyenborg",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Frida Larsen",
+              "bowler": "A Meyenborg",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "AB Slebsager",
+              "bowler": "A Meyenborg",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "AB Slebsager",
+              "bowler": "A Meyenborg",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Frida Larsen",
+              "bowler": "A Kohli",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "AB Slebsager",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "AB Slebsager",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "AB Slebsager",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AB Slebsager",
+                  "fielders": [
+                    {
+                      "name": "N Kingsley"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "K Pandya",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "K Pandya",
+              "bowler": "A Kohli",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "K Pandya",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "K Pandya",
+              "bowler": "Meghana Lakayil",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "K Pandya",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Frida Larsen",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "K Pandya",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Pandya",
+                  "fielders": [
+                    {
+                      "name": "S Kolcharam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Farhat Afroz",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Farhat Afroz",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Frida Larsen",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Farhat Afroz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Farhat Afroz",
+                  "fielders": [
+                    {
+                      "name": "A Kanukuntla"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "NP Dalgaard",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "NP Dalgaard",
+              "bowler": "A Kanukuntla",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "NP Dalgaard",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "NP Dalgaard",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "NP Dalgaard",
+              "bowler": "Meghana Lakayil",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "NP Dalgaard",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "NP Dalgaard",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Frida Larsen",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "NP Dalgaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "NP Dalgaard",
+              "bowler": "Meghana Lakayil",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "NP Dalgaard",
+                  "fielders": [
+                    {
+                      "name": "Aanvi Kishore"
+                    },
+                    {
+                      "name": "V Stolle"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "ML Karlsen",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Frida Larsen",
+              "bowler": "W Hornero-Garcia",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Frida Larsen",
+              "bowler": "W Hornero-Garcia",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "ML Karlsen",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "ML Karlsen",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ML Karlsen",
+                  "fielders": [
+                    {
+                      "name": "K Simone-Kingsley"
+                    },
+                    {
+                      "name": "V Stolle"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "D Golechha",
+              "bowler": "W Hornero-Garcia",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "D Golechha",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Frida Larsen",
+              "bowler": "W Hornero-Garcia",
+              "extras": {
+                "byes": 2,
+                "noballs": 1
+              },
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Frida Larsen",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Frida Larsen",
+              "bowler": "W Hornero-Garcia",
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Frida Larsen",
+              "bowler": "A Meyenborg",
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Frida Larsen",
+              "bowler": "A Meyenborg",
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Frida Larsen",
+              "bowler": "A Meyenborg",
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Frida Larsen",
+              "bowler": "A Meyenborg",
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 110
+      }
+    }
+  ]
+}

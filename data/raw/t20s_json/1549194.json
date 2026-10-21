@@ -1,0 +1,1427 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-26",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Ilfov County",
+    "dates": [
+      "2026-08-26"
+    ],
+    "event": {
+      "name": "Women's Continental Cup",
+      "match_number": 1,
+      "group": "A"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2965,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Turkey",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "K Canavarci"
+    ],
+    "players": {
+      "Austria": [
+        "P Sabu",
+        "SK Reddy",
+        "Ashi Chopla",
+        "Hadia Siddiqui",
+        "S Bhardwaj",
+        "MPM Pathirannehelage",
+        "P Ganeshan",
+        "V Poglitsch",
+        "Prithaa Ganeshan",
+        "Anjuman Hira",
+        "A Saifee"
+      ],
+      "Turkey": [
+        "Suzan Turan",
+        "K Canavarci",
+        "ZB Ender",
+        "M Bayram",
+        "G Keles",
+        "H Celik",
+        "G Ayan",
+        "R Cenik",
+        "S Ozkunduz",
+        "D Tekyildirim",
+        "Ezgi Nur Kilic"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Saifee": "7efe9059",
+        "Anjuman Hira": "bb542dcf",
+        "Ashi Chopla": "89d6902b",
+        "D Tekyildirim": "ae5f7b63",
+        "Ezgi Nur Kilic": "ec8132b2",
+        "G Ayan": "66d258e2",
+        "G Keles": "3e84a803",
+        "H Celik": "266f372c",
+        "Hadia Siddiqui": "14bc5d2d",
+        "K Canavarci": "556ad437",
+        "M Bayram": "4867ffbf",
+        "MPM Pathirannehelage": "0c142594",
+        "P Ganeshan": "3829c5ea",
+        "P Sabu": "a38da707",
+        "Prithaa Ganeshan": "ab7b5a48",
+        "R Cenik": "050009d9",
+        "S Bhardwaj": "83e9173e",
+        "S Ozkunduz": "25850e31",
+        "SK Reddy": "3e1fbf05",
+        "Suzan Turan": "fec8377a",
+        "V Poglitsch": "e7351fbd",
+        "ZB Ender": "54b592a5"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Austria",
+      "Turkey"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Turkey"
+    },
+    "venue": "Moara Vlasiei Cricket Ground, Ilfov County"
+  },
+  "innings": [
+    {
+      "team": "Austria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "P Sabu",
+              "bowler": "Ezgi Nur Kilic",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "SK Reddy",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "SK Reddy",
+              "bowler": "Ezgi Nur Kilic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "SK Reddy",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "P Sabu",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Sabu",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Ashi Chopla",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Ashi Chopla",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "SK Reddy",
+              "bowler": "K Canavarci",
+              "non_striker": "Ashi Chopla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "SK Reddy",
+              "bowler": "K Canavarci",
+              "non_striker": "Ashi Chopla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ashi Chopla",
+                  "fielders": [
+                    {
+                      "name": "G Keles"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Hadia Siddiqui",
+              "bowler": "K Canavarci",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "SK Reddy",
+              "bowler": "K Canavarci",
+              "non_striker": "Hadia Siddiqui",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "SK Reddy",
+              "bowler": "K Canavarci",
+              "non_striker": "Hadia Siddiqui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Hadia Siddiqui",
+              "bowler": "K Canavarci",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Hadia Siddiqui",
+              "bowler": "H Celik",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Hadia Siddiqui",
+              "bowler": "H Celik",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "SK Reddy",
+              "bowler": "H Celik",
+              "non_striker": "Hadia Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "SK Reddy",
+              "bowler": "H Celik",
+              "non_striker": "Hadia Siddiqui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Hadia Siddiqui",
+              "bowler": "H Celik",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hadia Siddiqui",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "S Bhardwaj",
+              "bowler": "H Celik",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "SK Reddy",
+              "bowler": "G Ayan",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "S Bhardwaj",
+              "bowler": "G Ayan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "S Bhardwaj",
+              "bowler": "G Ayan",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "SK Reddy",
+              "bowler": "G Ayan",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "SK Reddy",
+              "bowler": "G Ayan",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "SK Reddy",
+              "bowler": "G Ayan",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "S Bhardwaj",
+              "bowler": "G Ayan",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "S Bhardwaj",
+              "bowler": "G Ayan",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "SK Reddy",
+              "bowler": "S Ozkunduz",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "S Bhardwaj",
+              "bowler": "S Ozkunduz",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "S Bhardwaj",
+              "bowler": "S Ozkunduz",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "S Bhardwaj",
+              "bowler": "S Ozkunduz",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "S Bhardwaj",
+              "bowler": "S Ozkunduz",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "SK Reddy",
+              "bowler": "S Ozkunduz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "SK Reddy",
+              "bowler": "S Ozkunduz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "SK Reddy",
+              "bowler": "S Ozkunduz",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "SK Reddy",
+              "bowler": "S Ozkunduz",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "SK Reddy",
+              "bowler": "S Ozkunduz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "SK Reddy",
+              "bowler": "S Ozkunduz",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "S Bhardwaj",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "SK Reddy",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "SK Reddy",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "S Bhardwaj",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "SK Reddy",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "S Bhardwaj",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "SK Reddy",
+              "bowler": "K Canavarci",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "SK Reddy",
+              "bowler": "K Canavarci",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SK Reddy",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "MPM Pathirannehelage",
+              "bowler": "K Canavarci",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MPM Pathirannehelage",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "P Ganeshan",
+              "bowler": "K Canavarci",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "P Ganeshan",
+              "bowler": "K Canavarci",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Ganeshan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "V Poglitsch",
+              "bowler": "K Canavarci",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "S Bhardwaj",
+              "bowler": "H Celik",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "S Bhardwaj",
+              "bowler": "H Celik",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "V Poglitsch",
+              "bowler": "H Celik",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Poglitsch",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Prithaa Ganeshan",
+              "bowler": "H Celik",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Prithaa Ganeshan",
+              "bowler": "H Celik",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Prithaa Ganeshan",
+              "bowler": "H Celik",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Prithaa Ganeshan",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Anjuman Hira",
+              "bowler": "H Celik",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Anjuman Hira",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "S Bhardwaj",
+              "bowler": "G Ayan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Saifee",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.1",
+              "batter": "S Bhardwaj",
+              "bowler": "G Ayan",
+              "non_striker": "A Saifee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Bhardwaj",
+                  "fielders": [
+                    {
+                      "name": "Ezgi Nur Kilic"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Turkey",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Suzan Turan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "K Canavarci",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Suzan Turan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "K Canavarci",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "K Canavarci",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "K Canavarci",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "K Canavarci",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "K Canavarci",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Canavarci",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Suzan Turan",
+              "bowler": "Ashi Chopla",
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Suzan Turan",
+              "bowler": "Ashi Chopla",
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Suzan Turan",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Suzan Turan",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Suzan Turan",
+              "bowler": "S Bhardwaj",
+              "non_striker": "ZB Ender",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "S Bhardwaj",
+                    "out": "Ashi Chopla",
+                    "reason": "unknown",
+                    "role": "bowler"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Suzan Turan",
+              "bowler": "S Bhardwaj",
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Suzan Turan",
+              "bowler": "S Bhardwaj",
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "ZB Ender",
+              "bowler": "S Bhardwaj",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Suzan Turan",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.1",
+              "batter": "Suzan Turan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Suzan Turan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "ZB Ender",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "ZB Ender",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "ZB Ender",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Suzan Turan",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Suzan Turan",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "ZB Ender",
+              "bowler": "S Bhardwaj",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "M Bayram",
+              "bowler": "S Bhardwaj",
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "ZB Ender",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "ZB Ender",
+              "bowler": "S Bhardwaj",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "ZB Ender",
+              "bowler": "S Bhardwaj",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "M Bayram",
+              "bowler": "S Bhardwaj",
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "ZB Ender",
+              "bowler": "S Bhardwaj",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "M Bayram",
+              "bowler": "SK Reddy",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "ZB Ender",
+              "bowler": "SK Reddy",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "ZB Ender",
+              "bowler": "SK Reddy",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "M Bayram",
+              "bowler": "SK Reddy",
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "M Bayram",
+              "bowler": "SK Reddy",
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "ZB Ender",
+              "bowler": "SK Reddy",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "ZB Ender",
+              "bowler": "SK Reddy",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "M Bayram",
+              "bowler": "P Sabu",
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "M Bayram",
+              "bowler": "P Sabu",
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "M Bayram",
+              "bowler": "P Sabu",
+              "non_striker": "ZB Ender",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 10,
+        "runs": 36
+      }
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+venue_id,canonical_name,city,country,latitude,longitude,elevation_m,boundary_straight_m,boundary_square_off_m,boundary_square_leg_m,boundary_fine_leg_m,boundary_third_man_m,boundary_avg_m,pitch_soil_type,pitch_behavior,grass_coverage
+IND_HYD_UPPAL,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,India,17.4065,78.5505,505.0,71.0,66.0,66.0,63.0,63.0,65.8,Black / Red Mixed Soil,True Bounce / High Scoring,Light Grass
+IND_PUN_MCA,Maharashtra Cricket Association Stadium,Pune,India,18.6745,73.7065,560.0,73.0,67.0,67.0,64.0,64.0,67.0,Black Cotton Soil,True Bounce & High Scoring,Light Grass
+IND_RAJ_SCA,Saurashtra Cricket Association Stadium,Rajkot,India,22.3619,70.7061,138.0,73.0,66.0,66.0,62.0,62.0,65.8,Black Soil,Flat / Batting Paradise,Light Grass
+IND_IND_HOLKAR,Holkar Cricket Stadium,Indore,India,22.7247,75.8753,553.0,68.0,60.0,60.0,56.0,56.0,60.0,Red Soil / Clay,Batting Paradise / Short Boundaries,Light Grass
+IND_BLR_CHINNASWAMY,M. Chinnaswamy Stadium,Bengaluru,India,12.9788,77.5996,920.0,68.0,58.0,58.0,56.0,56.0,59.2,Clay / Sand Sub-base,Batting Paradise,Moderate Grass
+IND_MUM_WANKHEDE,Wankhede Stadium,Mumbai,India,18.9389,72.8258,14.0,72.0,65.0,64.0,62.0,63.0,65.2,Red Soil,Pace & True Bounce,Light Grass
+IND_KOL_EDEN_GARDENS,Eden Gardens,Kolkata,India,22.5646,88.3433,11.0,74.0,68.0,68.0,65.0,65.0,68.0,Black Soil / Gangetic Silt,Balanced / True Pace,Moderate Grass
+IND_DEL_ARUN_JAITLEY,Arun Jaitley Stadium,Delhi,India,28.6378,77.2431,215.0,66.0,62.0,62.0,58.0,58.0,61.2,Black Soil,Batting Paradise / Two-Paced,Light Grass
+IND_MOH_BINDRA,Punjab Cricket Association IS Bindra Stadium,Mohali,India,30.6908,76.7374,316.0,74.0,72.0,71.0,66.0,66.0,69.8,Clay Loam,Pace & Seam Movement,Moderate Grass
+INT_GREENPARK,Green Park,Kanpur,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+IND_CHE_CHEPAUK,"MA Chidambaram Stadium, Chepauk",Chennai,India,13.0628,80.2793,9.0,70.0,68.0,68.0,64.0,64.0,66.8,Black Soil / Clay,Spin & Grip,Shaved / Bare
+IND_JAI_SMS,Sawai Mansingh Stadium,Jaipur,India,26.894,75.8032,431.0,75.0,70.0,70.0,66.0,66.0,69.4,Clay / Sandy Loam,Balanced / True Bounce,Light Grass
+IND_VIZ_ACAVDCA,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,India,17.7972,83.3541,22.0,71.0,65.0,65.0,61.0,61.0,64.6,Clay Loam,Batting Paradise / True Bounce,Moderate Grass
+UAE_ABU_SZS,Sheikh Zayed Stadium,Abu Dhabi,United Arab Emirates,24.3989,54.5492,15.0,78.0,70.0,70.0,66.0,66.0,70.0,Clay / Sand,Balanced / Large Dimensions,Moderate Grass
+UAE_DXB_DIC,Dubai International Cricket Stadium,Dubai,United Arab Emirates,25.0454,55.2185,10.0,76.0,68.0,68.0,65.0,65.0,68.4,Imported Clay / Sand Sub-base,Balanced / Moderate Pace & Dew,Light Grass
+UAE_SHJ_SCS,Sharjah Cricket Stadium,Sharjah,United Arab Emirates,25.3297,55.4208,12.0,65.0,58.0,58.0,56.0,56.0,58.6,Clay / Sandy Loam,Batting Paradise / Short Boundaries,Dry / Shaved
+IND_AHM_MOTERA,Narendra Modi Stadium,Ahmedabad,India,23.0917,72.5972,55.0,75.0,68.0,68.0,65.0,65.0,68.2,Dual (Red Soil & Black Soil Strips),Variable (Red: Bounce / Black: Turn),Moderate Grass
+IND_MUM_BRABOURNE,Brabourne Stadium,Mumbai,India,18.9322,72.8236,11.0,70.0,64.0,64.0,60.0,60.0,63.6,Red Soil,High Bounce & Fast Outfield,Light Grass
+IND_MUM_DYPATIL,Dr DY Patil Sports Academy,Navi Mumbai,India,19.0436,73.0259,12.0,72.0,66.0,66.0,62.0,62.0,65.6,Red Soil,True Bounce,Moderate Grass
+IND_LKO_EKANA,BRSABV Ekana Cricket Stadium,Lucknow,India,26.7909,81.0142,123.0,74.0,68.0,68.0,64.0,64.0,67.6,Dual (Black Soil & Red Soil),Two-Paced / Spin on Black; Fast on Red,Light Grass
+IND_GUW_BARSAPARA,Barsapara Cricket Stadium,Guwahati,India,26.1417,91.7369,54.0,70.0,64.0,64.0,60.0,60.0,63.6,Clay / Alluvial Soil,Batting Paradise / High Scoring,Light Grass
+IND_DHA_HPCA,Himachal Pradesh Cricket Association Stadium,Dharamsala,India,32.1976,76.326,1457.0,70.0,65.0,65.0,62.0,62.0,64.8,Cold Climate Loam / Ryegrass,"Pace, Swing & Extreme Seam",Heavy Grass
+IND_MUL_YADAVINDRA,Maharaja Yadavindra Singh International Cricket Stadium,Mullanpur,India,30.7937,76.7329,320.0,73.0,67.0,67.0,63.0,63.0,66.6,Clay Loam,Good Pace & Seam,Moderate Grass
+RSA_CPT_NEWLANDS,Newlands,Cape Town,South Africa,-33.9706,18.4683,18.0,72.0,66.0,66.0,62.0,62.0,65.6,Clay / Kikuyu Grass,Seam & Swing / Mountain Wind,Moderate Grass
+INT_STGEORGESPARK,St George's Park,Port Elizabeth,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+RSA_DUR_KINGSMEAD,Kingsmead,Durban,South Africa,-29.8517,31.0289,10.0,74.0,67.0,67.0,63.0,63.0,66.8,Coastal Clay / Kikuyu Grass,Early Swing & Seam / Humid Breeze,Moderate Grass
+RSA_CEN_SUPERSPORT,SuperSport Park,Centurion,South Africa,-25.8594,28.1969,1440.0,75.0,69.0,69.0,65.0,65.0,68.6,Bulli Clay / Kikuyu Grass,Fast & Bouncy / High Altitude,Moderate Grass
+INT_BUFFALOPARK,Buffalo Park,East London,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+RSA_JHB_WANDERERS,New Wanderers Stadium,Johannesburg,South Africa,-26.1317,28.0583,1720.0,74.0,68.0,68.0,65.0,65.0,68.0,Bulli Soil / Kikuyu Grass,High Pace & Bounce / Extreme Six-Hitting,Moderate Grass
+INT_DEBEERSDIAMONDO,De Beers Diamond Oval,Kimberley,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_OUTSURANCEOVAL,OUTsurance Oval,Bloemfontein,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_BARABATISTADIUM,Barabati Stadium,Cuttack,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_NEHRUSTADIUM,Nehru Stadium,Kochi,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+BAN_DHA_MIRPUR,Sher-e-Bangla National Cricket Stadium,Dhaka,Bangladesh,23.8069,90.3639,12.0,70.0,65.0,65.0,61.0,61.0,64.4,Gangetic Clay / Silt,Low Bounce & Extreme Turn,Shaved / Bare
+AUS_MEL_MCG,Melbourne Cricket Ground,Melbourne,Australia,-37.82,144.9834,25.0,84.0,76.0,76.0,72.0,72.0,76.0,Drop-in Merri Creek Black Clay,True Bounce / Huge Outfield,Light Grass
+INT_SIMONDSSTADIUM,"Simonds Stadium, South Geelong",Victoria,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+AUS_ADE_OVAL,Adelaide Oval,Adelaide,Australia,-34.9156,138.5961,28.0,82.0,62.0,62.0,60.0,60.0,65.2,Drop-in Clay / Rye Grass,Long Straight / Short Square / True Bounce,Moderate Grass
+INT_BREADYCRICKETCL,"Bready Cricket Club, Magheramason",Londonderry,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+ZIM_HAR_HSC,Harare Sports Club,Harare,Zimbabwe,-17.8181,31.0544,1483.0,74.0,68.0,68.0,64.0,64.0,67.6,Red Clay Loam,High Altitude / Fast Bounce,Moderate Grass
+INT_MCLEANPARK,McLean Park,Napier,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_BAYOVAL,Bay Oval,Mount Maunganui,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+NZ_AUC_EDEN_PARK,Eden Park,Auckland,New Zealand,-36.8753,174.7447,42.0,55.0,68.0,68.0,58.0,58.0,61.4,Drop-in Waikato Clay / Rye Grass,Extreme Short Straight / Seam & Swing,Heavy Grass
+INT_THEROSEBOWL,The Rose Bowl,Southampton,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_COUNTYGROUND,County Ground,Taunton,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_RIVERSIDEGROUND,Riverside Ground,Chester-le-Street,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_CENTRALBROWARDR,Central Broward Regional Park Stadium Turf Ground,Lauderhill,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SAXTONOVAL,Saxton Oval,Nelson,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_ASIANINSTITUTEO,Asian Institute of Technology Ground,Bangkok,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+AUS_SYD_SCG,Sydney Cricket Ground,Sydney,Australia,-33.8917,151.2247,38.0,76.0,68.0,68.0,64.0,64.0,68.0,Bulli Soil / Couch Grass,Turn & Bounce,Light Grass
+INT_BELLERIVEOVAL,Bellerive Oval,Hobart,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_WESTPACSTADIUM,Westpac Stadium,Wellington,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SEDDONPARK,Seddon Park,Hamilton,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_MANGAUNGOVAL,Mangaung Oval,Bloemfontein,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SENWESPARK,Senwes Park,Potchefstroom,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+WI_BAR_KENSINGTON,Kensington Oval,Bridgetown,Barbados,13.1042,-59.6231,16.0,73.0,67.0,67.0,63.0,63.0,66.6,Limestone Clay Loam,Pace & Carry / Caribbean Trade Winds,Moderate Grass
+INT_QUEENSPARKOVAL,"Queen's Park Oval, Port of Spain",Trinidad,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+SRI_COL_PREMADASA,R. Premadasa Stadium,Colombo,Sri Lanka,6.9397,79.8718,7.0,72.0,66.0,66.0,62.0,62.0,65.6,Coastal Alluvial Clay,Spin & Grip / Slows Down,Shaved / Bare
+INT_MANUKAOVAL,Manuka Oval,Canberra,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SABINAPARK,"Sabina Park, Kingston",Jamaica,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_GADDAFISTADIUM,Gaddafi Stadium,Lahore,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+ENG_BIR_EDGBASTON,Edgbaston,Birmingham,England,52.4558,-1.9028,120.0,72.0,65.0,65.0,61.0,61.0,64.8,Banbury Clay Loam,True Bounce & High Scoring,Moderate Grass
+INT_OLDTRAFFORD,Old Trafford,Manchester,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_COOLIDGECRICKET,Coolidge Cricket Ground,Antigua,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_THECOOPERASSOCI,The Cooper Associates County Ground,Taunton,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_GRANGECRICKETCL,"Grange Cricket Club, Raeburn Place",Edinburgh,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_PUKEKURAPARK,Pukekura Park,New Plymouth,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_NONDESCRIPTSCRI,Nondescripts Cricket Club Ground,Colombo,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_THEVILLAGE,"The Village, Malahide",Dublin,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+ENG_LON_LORDS,Lord's,London,England,51.5298,-0.1726,35.0,74.0,68.0,68.0,64.0,64.0,67.6,Ongar Clay Loam / Ryegrass,Natural Slope / Seam & Swing,Heavy Grass
+INT_HAZELAARWEG,Hazelaarweg,Rotterdam,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SPORTPARKHETSCH,Sportpark Het Schootsveld,Deventer,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_VRAGROUND,VRA Ground,Amstelveen,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_ALLANBORDERFIEL,Allan Border Field,Brisbane,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_CARRARAOVAL,Carrara Oval,International Ground,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+AUS_BRI_GABBA,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Australia,-27.4858,153.0381,15.0,78.0,72.0,72.0,68.0,68.0,71.6,Acland Bulli Clay,High Pace & Steep Bounce,Moderate Grass
+INT_YMCACRICKETCLUB,YMCA Cricket Club,Dublin,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_PEMBROKECRICKET,"Pembroke Cricket Club, Sandymount",Dublin,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_WARNERPARK,"Warner Park, Basseterre",St Kitts,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SPORTPARKMAARSC,Sportpark Maarschalkerweerd,Utrecht,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_ROYALSELANGORCL,Royal Selangor Club,Kuala Lumpur,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_PROVIDENCESTADI,Providence Stadium,Guyana,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SIRVIVIANRICHAR,"Sir Vivian Richards Stadium, North Sound",Antigua,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_BRIANLARASTADIU,"Brian Lara Stadium, Tarouba",Trinidad,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_COLTSCRICKETCLU,Colts Cricket Club Ground,Colombo,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_CHILAWMARIANSCR,Chilaw Marians Cricket Club Ground,FTZ Sports Complex,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_TOLERANCEOVAL,Tolerance Oval,Abu Dhabi,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_BREADY,Bready,Derry,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SOUTHENDCLUBCRI,Southend Club Cricket Stadium,Karachi,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+OMA_ALA_TURF1,Al Amerat Cricket Ground (Ministry Turf 1),Al Amarat,Oman,23.4912,58.4617,220.0,72.0,66.0,66.0,62.0,62.0,65.6,Imported Clay / Desert Silt,True Bounce / Evening Dew,Light Grass
+INT_TERDTHAICRICKET,Terdthai Cricket Ground,Bangkok,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_WACAGROUND,W.A.C.A. Ground,Perth,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_JUNCTIONOVAL,Junction Oval,Melbourne,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_PSARAOVAL,P Sara Oval,Colombo,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_AMINIPARK,Amini Park,Port Moresby,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_LCDEVILLIERSOVA,LC de Villiers Oval,Pretoria,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_CITYOVAL,City Oval,Pietermaritzburg,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_WILLOWMOOREPARK,Willowmoore Park,Benoni,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_UNITEDCRICKETCL,United Cricket Club Ground,Windhoek,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_OLDHARARIANS,Old Hararians,Harare,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_GROUND1,"Ground 1, Independence Park",Port Vila,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_GROUND2,"Ground 2, Independence Park",Port Vila,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+AUS_PER_OPTUS,Perth Stadium,Perth,Australia,-31.9511,115.8894,10.0,78.0,71.0,71.0,67.0,67.0,70.8,Drop-in Clay / Couch Grass,Fastest & Bounciest Pitch in World,Moderate Grass
+INT_KYAMBOGOCRICKET,Kyambogo Cricket Oval,Kampala,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_LUGOGOCRICKETOV,Lugogo Cricket Oval,Kampala,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_COLLEGEFIELD,College Field,St Peter Port,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_HAGLEYOVAL,Hagley Oval,Christchurch,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_BASINRESERVE,Basin Reserve,Wellington,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+RWA_KIG_GAHANGA,Gahanga International Cricket Stadium,Kigali,Rwanda,-2.0238,30.1084,1490.0,68.0,62.0,62.0,58.0,58.0,61.6,Laterite Red Clay,High Altitude / Quick Bounce,Light Grass
+INT_LAMANGACLUBTOPG,La Manga Club Top Ground,Murcia,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SPORTPARKWESTVL,Sportpark Westvliet,The Hague,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_FORTHILL,Forthill,Dundee,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_LOCHLANDS,Lochlands,Arbroath,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_ZAHURAHMEDCHOWD,Zahur Ahmed Chowdhury Stadium,Chattogram,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_YEONHUICRICKETG,Yeonhui Cricket Ground,Incheon,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_WHITEHILLFIELD,"White Hill Field, Sandys Parish",Hamilton,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_LALABHAICONTRAC,Lalabhai Contractor Stadium,Surat,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_LAMANGACLUBBOTT,La Manga Club Bottom Ground,Murcia,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_DESERTSPRINGSCR,Desert Springs Cricket Ground,Almeria,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+NEP_KIR_TU,Tribhuvan University International Cricket Ground,Kirtipur,Nepal,27.6794,85.2831,1330.0,70.0,64.0,64.0,60.0,60.0,63.6,Alluvial Valley Clay,High Altitude / Spin Later,Light Grass
+INT_POKHARARANGASAL,Pokhara Rangasala,Pokhara,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SEEBARNCRICKETC,"Seebarn Cricket Centre, Lower Austria",Lower Austria,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_PIERREWERNERCRI,Pierre Werner Cricket Ground,Walferdange,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_RAWALPINDICRICK,Rawalpindi Cricket Stadium,International Ground,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SKYSTADIUM,Sky Stadium,Wellington,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_MOARAVLASIEICRI,Moara Vlasiei Cricket Ground,International Ground,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_BOLANDPARK,Boland Park,Paarl,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+ENG_NOT_TRENT_BRIDGE,Trent Bridge,Nottingham,England,52.9369,-1.1322,24.0,70.0,63.0,63.0,59.0,59.0,62.8,Boughton Loam,Extreme Swing & Batting Paradise,Moderate Grass
+INT_HEADINGLEY,"Headingley, Leeds",Leeds,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_CIVILSERVICECRI,"Civil Service Cricket Club, Stormont, Belfast",Belfast,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SCOTTPAGEFIELD,"Scott Page Field, Vinor",Prague,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_BAYERUERDINGENC,Bayer Uerdingen Cricket Ground,Krefeld,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_CASTLEAVENUE,"Castle Avenue, Dublin",Dublin,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SVANHOLMPARK,"Svanholm Park, Brondby",Brondby,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_GUCHERRECRICKET,Gucherre Cricket Ground,Albergaria,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_ENTEBBECRICKETO,Entebbe Cricket Oval,Entebbe,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_GUTTSTAWICKEDCR,Guttsta Wicked Cricket Club,Kolsva,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_HAPPYVALLEYGROU,Happy Valley Ground,Episkopi,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_REFORMAATHLETIC,"Reforma Athletic Club, Naucalpan",Naucalpan,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_INTEGRATEDPOLYT,Integrated Polytechnic Regional Centre,Kigali City,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_JOHNDAVIESOVAL,"John Davies Oval, Queenstown",Queenstown,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_GMHBASTADIUM,"GMHBA Stadium, South Geelong, Victoria",Geelong,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_CENTREFORCRICKE,"Centre for Cricket Development Ground, Windhoek",Windhoek,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_MALEKCRICKETGRO,"Malek Cricket Ground, Ajman",Ajman,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_WINDSORPARK,"Windsor Park, Roseau, Dominica",Roseau,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_UKMYSDCRICKETOV,"UKM-YSD Cricket Oval, Bangi",Bangi,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_MEERSEN,"Meersen, Gent",Ghent,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_ROYALBRUSSELSCR,"Royal Brussels Cricket Club Ground, Waterloo",Waterloo,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_GRAINVILLE,"Grainville, St Saviour",St Saviour,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_TIKKURILACRICKE,Tikkurila Cricket Ground,Vantaa,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SPORTPARKHARGA,"Sportpark Harga, Schiedam",Schiedam,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_BULAWAYOATHLETI,Bulawayo Athletic Club,Bulawayo,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_LISICJIJARAKCRI,Lisicji Jarak Cricket Ground,Belgrade,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_GYMKHANACLUBGRO,"Gymkhana Club Ground, Nairobi",Nairobi,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_INDEPENDENCEPAR,"Independence Park, Port Vila",Port Vila,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_KAIZUKACRICKETG,Kaizuka Cricket Ground,Osaka,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_ROYALCHIANGMAIG,Royal Chiangmai Golf Club,Chiang Mai,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_STALBANSCLUB,"St Albans Club, Buenos Aires",Buenos Aires,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_BELGRANOATHLETI,"Belgrano Athletic Club Ground, Buenos Aires",Buenos Aires,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_HURLINGHAMCLUBG,"Hurlingham Club Ground, Buenos Aires",Buenos Aires,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_MISSIONROADGROU,"Mission Road Ground, Mong Kok, Hong Kong",Mong Kok,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_TAFAWABALEWASQU,Tafawa Balewa Square (TBS) Cricket Oval,International Ground,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SANTAREMCRICKET,Santarem Cricket Ground,Albergaria,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SOLVANGSPARK,"Solvangs Park, Glostrup",Copenhagen,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_YSDUKMCRICKETOV,"YSD-UKM Cricket Oval, Bangi",Bangi,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_FBFIELDS,"FB Fields, St Clement",St Clement,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_GOLDENACRE,"Goldenacre, Edinburgh",Edinburgh,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+MAS_KUL_BAYUEMAS,Bayuemas Oval,Kuala Lumpur,Malaysia,2.9904,101.4429,15.0,67.0,61.0,61.0,58.0,58.0,61.0,Tropical Clay Loam,Tropical Humidity / Slow Turner,Moderate Grass
+INT_MALAHIDE,"Malahide, Dublin",Dublin,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_GBOVAL,"GB Oval, Szodliget",Szodliget,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_TURFCITYBCRICKE,Turf City B Cricket Ground,Singapore,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_VANUATUCRICKETG,Vanuatu Cricket Ground,Port Vila,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_WOODLEYCRICKETF,"Woodley Cricket Field, Los Angeles",Los Angeles,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_DIAMONDOVAL,"Diamond Oval, Kimberley",Kimberley,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_STLAWRENCEGROUN,"St Lawrence Ground, Canterbury",Canterbury,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SANALBANO,San Albano,International Ground,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_MULPANICRICKETG,Mulpani Cricket Ground,Kathmandu,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_STGEORGESQUILME,St Georges Quilmes,International Ground,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_UDAYANACRICKETG,Udayana Cricket Ground,Bali,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_HONGKONGCRICKET,Hong Kong Cricket Club,Wong Nai Chung Gap,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_GRANDPRAIRIESTA,"Grand Prairie Stadium, Dallas",Dallas,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_ARNOSVALEGROUND,"Arnos Vale Ground, Kingstown, St Vincent",Kingstown,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_ACHIMOTASENIORS,"Achimota Senior Secondary School A Field, Accra",Accra,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_PRAIRIEVIEWCRIC,Prairie View Cricket Complex,Houston,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_GREATBARRIERREE,"Great Barrier Reef Arena, Mackay",Mackay,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_LOSREYESPOLOCLU,Los Reyes Polo Club,Guacima,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_DREUXSPORTCRICK,Dreux Sport Cricket Club,Dreux,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_ROMACRICKETGROU,Roma Cricket Ground,Spinaceto,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SIMARCRICKETGRO,"Simar Cricket Ground, Rome",Rome,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SHRIMANTMADHAVR,"Shrimant Madhavrao Scindia Cricket Stadium, Gwalior",Gwalior,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_GUERNSEYROVERSA,"Guernsey Rovers Athletic Club Ground, Port Soif",Port  Soif,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SIKHUNIONCLUBGR,"Sikh Union Club Ground, Nairobi",Nairobi,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_MLADOSTCRICKETG,"Mladost Cricket Ground, Zagreb",Zagreb,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_FALEATAOVALNO2,"Faleata Oval No 2, Apia",Apia,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_EKEBERGCRICKETG,"Ekeberg Cricket Ground 1, Oslo",Oslo,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_MULTANCRICKETST,Multan Cricket Stadium,Multan,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_KOGECRICKETCLUB,Koge Cricket Club,Koge,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_MAPLELEAFNORTHW,"Maple Leaf North-West Ground, King City",King City,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_MARINAGROUND,"Marina Ground, Corfu",Corfu,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SAOFERNANDOPOLO,Sao Fernando Polo and Cricket Club,Seropedica,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_TCAOVAL,"TCA Oval, Blantyre",Blantyre,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_JINJACRICKETGRO,Jinja Cricket Ground,Jinja,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SYLHETSTADIUM,Sylhet Stadium,Sylhet,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_NIGERIACRICKETF,"Nigeria Cricket Federation Oval 1, Abuja",Abuja,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_LASCABALLERIZAS,Las Caballerizas,Mexico City,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_STGEORGESCOLLEG,"St George's College Ground, Buenos Aires",Buenos Aires,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_NDUSTADIUM,"N'Du Stadium, Noumea, New Caledonia",Noumea,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_NAMIBIACRICKETG,"Namibia Cricket Ground, Windhoek",Windhoek,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_CLONTARFCRICKET,"Clontarf Cricket Club Ground, Dublin",Dublin,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_MARRARASTADIUM,"Marrara Stadium, Darwin",Darwin,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_CAZALYSSTADIUM,"Cazaly's Stadium, Cairns",Cairns,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_HIGHPERFORMANCE,"High Performance Oval, Windhoek",Windhoek,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_CLAYTONPANAMA,"Clayton Panama, Panama City",Panama City,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_JIMMYPOWELLOVAL,"Jimmy Powell Oval, Cayman Islands",George Town,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_VELDENCRICKETGR,"Velden Cricket Ground, Latschach",Latschach,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_STARSARENAHOFST,"Stars Arena Hofstade, Zemst",Zemst,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_TITWOOD,"Titwood, Glasgow",Glasgow,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_BALLPARKGROUND,"Ballpark Ground, Graz",Graz,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_ISHOJCRICKETCLU,"Ishoj Cricket Club, Vejledalen",Ishoj,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_MAPLELEAFNORTHE,"Maple Leaf North-East Ground, King City",King City,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_BOTKYRKACRICKET,"Botkyrka Cricket Center, Stockholm",Stockholm,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_STUBBERUDMYRACR,"Stubberudmyra Cricket Ground, Oslo",Oslo,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_ALBERTSLUNDCRIC,Albertslund Cricket Club,Copenhagen,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_ALBERTPARK1,"Albert Park 1, Suva",Suva,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_ALBERTPARK2,"Albert Park 2, Suva",Suva,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_NEWFARNLEYCC,"New Farnley CC, Leeds",Leeds,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_MALKERNSCOUNTRY,Malkerns Country Club oval,Malkerns,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_BIRSRESHTHOFLIG,"Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",Chattogram,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_KOLEJTUANKUJAAF,"Kolej Tuanku Jaafar Cricket Oval, Mantin",Mantin,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_BANKSFIELD,"Banks Field, Vinor",Prague,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_SSCKARLSRUHE,SSC Karlsruhe,Karlsruhe,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_LOSPINOSPOLOCLU,"Los Pinos Polo Club 1, Cundinamarca",Bogota,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_GELSENTRABPARK,"GelsenTrabPark, Gelsenkirchen",Gelsenkirchen,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_POCOSOVAL,"Pocos Oval, Pocos de Caldas",Minas Gerias,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+ENG_LON_OVAL,The Oval,London,England,51.4837,-0.115,8.0,75.0,69.0,69.0,65.0,65.0,68.6,Surrey Loam,True Pace & Good Bounce,Moderate Grass
+INT_JADESTADIUM,Jade Stadium,Christchurch,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_AMISTADIUM,AMI Stadium,Christchurch,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_BEAUSEJOURSTADI,"Beausejour Stadium, Gros Islet",St Lucia,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_BOLANDBANKPARK,Boland Bank Park,Paarl,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_MOSESMABHIDASTA,Moses Mabhida Stadium,Durban,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_STADIUMAUSTRALI,Stadium Australia,Sydney,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_ARUNDELCASTLECR,Arundel Castle Cricket Club Ground,International Ground,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_HASLEGRAVEGROUN,Haslegrave Ground,Loughborough,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_KERRYDALEOVAL,Kerrydale Oval,Gold Coast,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_TONYIRELANDSTAD,Tony Ireland Stadium,Townsville,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass
+INT_KHANSHAHEBOSMAN,Khan Shaheb Osman Ali Stadium,Fatullah,International,20.0,75.0,50.0,70.0,65.0,65.0,62.0,62.0,64.8,Standard Clay Loam,Balanced / Standard,Moderate Grass

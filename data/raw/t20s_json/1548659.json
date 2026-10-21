@@ -1,0 +1,3182 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-08-31",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Gelsenkirchen",
+    "dates": [
+      "2026-08-28"
+    ],
+    "event": {
+      "name": "Nordic Women T20 Cup",
+      "match_number": 2
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2975,
+    "officials": {
+      "reserve_umpires": [
+        "N Dhanawade"
+      ],
+      "umpires": [
+        "M Loveday",
+        "V Sridhar"
+      ]
+    },
+    "outcome": {
+      "winner": "Sweden",
+      "by": {
+        "runs": 71
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Kanchan Rana"
+    ],
+    "players": {
+      "Sweden": [
+        "A Vaidya",
+        "E Thelander",
+        "Eman Asim",
+        "Kanchan Rana",
+        "Zara Mohammad",
+        "Jayasooriya",
+        "Fatima Zahra",
+        "H Shreya",
+        "H Chamto",
+        "Anjali Natarajan",
+        "Malyun Yusuf"
+      ],
+      "Denmark": [
+        "S Hojholt",
+        "Frida Larsen",
+        "S Ostergaard",
+        "Thea Larsen",
+        "AB Slebsager",
+        "K Pandya",
+        "L Ostergaard",
+        "NP Dalgaard",
+        "ML Karlsen",
+        "D Golechha",
+        "C Ostergaard"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Vaidya": "b7d8c07d",
+        "AB Slebsager": "4ae7048b",
+        "Anjali Natarajan": "949988f5",
+        "C Ostergaard": "e212b0fd",
+        "D Golechha": "c2c12f2a",
+        "E Thelander": "45cb4feb",
+        "Eman Asim": "fd8038e1",
+        "Fatima Zahra": "cd4845e9",
+        "Frida Larsen": "1775e31e",
+        "H Chamto": "5e181be6",
+        "H Shreya": "0e8f734c",
+        "Jayasooriya": "39183970",
+        "K Pandya": "75b4acc8",
+        "Kanchan Rana": "d5d87f3f",
+        "L Ostergaard": "3a5160d9",
+        "M Loveday": "e4b126b0",
+        "ML Karlsen": "4302af3d",
+        "Malyun Yusuf": "436527cd",
+        "N Dhanawade": "bc68912b",
+        "NP Dalgaard": "40283617",
+        "S Hojholt": "1a14aefd",
+        "S Ostergaard": "a19e799b",
+        "Thea Larsen": "bbd31c8f",
+        "V Sridhar": "42314166",
+        "Zara Mohammad": "c9ca2bd7"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Sweden",
+      "Denmark"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Denmark"
+    },
+    "venue": "GelsenTrabPark, Gelsenkirchen"
+  },
+  "innings": [
+    {
+      "team": "Sweden",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "A Vaidya",
+              "bowler": "D Golechha",
+              "non_striker": "E Thelander",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "A Vaidya",
+              "bowler": "D Golechha",
+              "non_striker": "E Thelander",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "A Vaidya",
+              "bowler": "D Golechha",
+              "non_striker": "E Thelander",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "A Vaidya",
+              "bowler": "D Golechha",
+              "non_striker": "E Thelander",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "A Vaidya",
+              "bowler": "D Golechha",
+              "non_striker": "E Thelander",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "A Vaidya",
+              "bowler": "D Golechha",
+              "non_striker": "E Thelander",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "E Thelander",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "E Thelander",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "E Thelander",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "E Thelander",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "E Thelander",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "E Thelander",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "A Vaidya",
+              "bowler": "D Golechha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Thelander",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.1",
+              "batter": "A Vaidya",
+              "bowler": "D Golechha",
+              "non_striker": "E Thelander",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "A Vaidya",
+              "bowler": "D Golechha",
+              "non_striker": "E Thelander",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "E Thelander",
+              "bowler": "D Golechha",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "E Thelander",
+              "bowler": "D Golechha",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "E Thelander",
+              "bowler": "D Golechha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "E Thelander",
+              "bowler": "D Golechha",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Thelander",
+                  "fielders": [
+                    {
+                      "name": "AB Slebsager"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Eman Asim",
+              "bowler": "D Golechha",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Eman Asim",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "A Vaidya",
+              "bowler": "Thea Larsen",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Eman Asim",
+              "bowler": "Thea Larsen",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "A Vaidya",
+              "bowler": "Thea Larsen",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "A Vaidya",
+              "bowler": "Thea Larsen",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "A Vaidya",
+              "bowler": "Thea Larsen",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Eman Asim",
+              "bowler": "D Golechha",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "A Vaidya",
+              "bowler": "D Golechha",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "A Vaidya",
+              "bowler": "D Golechha",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "A Vaidya",
+              "bowler": "D Golechha",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "A Vaidya",
+              "bowler": "D Golechha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "A Vaidya",
+              "bowler": "D Golechha",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "A Vaidya",
+              "bowler": "D Golechha",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "A Vaidya",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "A Vaidya",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "A Vaidya",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "A Vaidya",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "A Vaidya",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "A Vaidya",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "A Vaidya",
+              "bowler": "C Ostergaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Eman Asim",
+              "bowler": "C Ostergaard",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Eman Asim",
+              "bowler": "C Ostergaard",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "A Vaidya",
+              "bowler": "C Ostergaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "A Vaidya",
+              "bowler": "C Ostergaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "A Vaidya",
+              "bowler": "C Ostergaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Eman Asim",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Eman Asim",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "A Vaidya",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "A Vaidya",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "A Vaidya",
+              "bowler": "NP Dalgaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "A Vaidya",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "A Vaidya",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Eman Asim",
+              "bowler": "C Ostergaard",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Eman Asim",
+              "bowler": "C Ostergaard",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Eman Asim",
+              "bowler": "C Ostergaard",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Eman Asim",
+              "bowler": "C Ostergaard",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "A Vaidya",
+              "bowler": "C Ostergaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "A Vaidya",
+              "bowler": "C Ostergaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Eman Asim",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Eman Asim",
+              "bowler": "NP Dalgaard",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "A Vaidya",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "A Vaidya",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "A Vaidya",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Vaidya",
+                  "fielders": [
+                    {
+                      "name": "C Ostergaard"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Kanchan Rana",
+              "bowler": "NP Dalgaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Kanchan Rana",
+              "bowler": "Frida Larsen",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Kanchan Rana",
+              "bowler": "Frida Larsen",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Kanchan Rana",
+              "bowler": "Frida Larsen",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Kanchan Rana",
+              "bowler": "Frida Larsen",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Kanchan Rana",
+              "bowler": "Frida Larsen",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Kanchan Rana",
+              "bowler": "Frida Larsen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Kanchan Rana",
+              "bowler": "Frida Larsen",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Kanchan Rana",
+              "bowler": "AB Slebsager",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Kanchan Rana",
+              "bowler": "AB Slebsager",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Kanchan Rana",
+              "bowler": "AB Slebsager",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Eman Asim",
+              "bowler": "AB Slebsager",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Eman Asim",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Eman Asim",
+              "bowler": "AB Slebsager",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Kanchan Rana",
+              "bowler": "AB Slebsager",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Kanchan Rana",
+              "bowler": "AB Slebsager",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Eman Asim",
+              "bowler": "L Ostergaard",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Eman Asim",
+              "bowler": "L Ostergaard",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Kanchan Rana",
+              "bowler": "L Ostergaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Eman Asim",
+              "bowler": "L Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Eman Asim",
+              "bowler": "L Ostergaard",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Kanchan Rana",
+              "bowler": "L Ostergaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Kanchan Rana",
+              "bowler": "L Ostergaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Eman Asim",
+              "bowler": "AB Slebsager",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Eman Asim",
+              "bowler": "AB Slebsager",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Kanchan Rana",
+              "bowler": "AB Slebsager",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Kanchan Rana",
+              "bowler": "AB Slebsager",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Kanchan Rana",
+              "bowler": "AB Slebsager",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Eman Asim",
+              "bowler": "AB Slebsager",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Eman Asim",
+              "bowler": "L Ostergaard",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Eman Asim",
+              "bowler": "L Ostergaard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Eman Asim",
+              "bowler": "L Ostergaard",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Kanchan Rana",
+              "bowler": "L Ostergaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Eman Asim",
+              "bowler": "L Ostergaard",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Eman Asim",
+              "bowler": "L Ostergaard",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Kanchan Rana",
+              "bowler": "L Ostergaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Eman Asim",
+              "bowler": "Thea Larsen",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Eman Asim",
+              "bowler": "Thea Larsen",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Kanchan Rana",
+              "bowler": "Thea Larsen",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Kanchan Rana",
+              "bowler": "Thea Larsen",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Kanchan Rana",
+              "bowler": "Thea Larsen",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Kanchan Rana",
+              "bowler": "Thea Larsen",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "Kanchan Rana",
+              "bowler": "L Ostergaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Eman Asim",
+              "bowler": "L Ostergaard",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Kanchan Rana",
+              "bowler": "L Ostergaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Kanchan Rana",
+              "bowler": "L Ostergaard",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Eman Asim",
+              "bowler": "L Ostergaard",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "Eman Asim",
+              "bowler": "L Ostergaard",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Eman Asim",
+              "bowler": "Thea Larsen",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Kanchan Rana",
+              "bowler": "Thea Larsen",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Eman Asim",
+              "bowler": "Thea Larsen",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Eman Asim",
+                  "fielders": [
+                    {
+                      "name": "L Ostergaard"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Zara Mohammad",
+              "bowler": "Thea Larsen",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Zara Mohammad",
+              "bowler": "Thea Larsen",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Zara Mohammad",
+                  "fielders": [
+                    {
+                      "name": "L Ostergaard"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Jayasooriya",
+              "bowler": "Thea Larsen",
+              "non_striker": "Kanchan Rana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.2,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Denmark",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "S Hojholt",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "S Hojholt",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "S Hojholt",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "S Hojholt",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Frida Larsen",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "S Hojholt",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Frida Larsen",
+              "bowler": "H Chamto",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "S Hojholt",
+              "bowler": "H Chamto",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "S Hojholt",
+              "bowler": "H Chamto",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "S Hojholt",
+              "bowler": "H Chamto",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "S Hojholt",
+              "bowler": "H Chamto",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "S Hojholt",
+              "bowler": "H Chamto",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Frida Larsen",
+              "bowler": "H Chamto",
+              "non_striker": "S Hojholt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S Hojholt",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "S Hojholt",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "S Hojholt",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "S Hojholt",
+              "bowler": "Malyun Yusuf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "S Hojholt",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "S Hojholt",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "S Hojholt",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Hojholt",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Frida Larsen",
+              "bowler": "H Chamto",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "S Ostergaard",
+              "bowler": "H Chamto",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "S Ostergaard",
+              "bowler": "H Chamto",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "S Ostergaard",
+              "bowler": "H Chamto",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "S Ostergaard",
+              "bowler": "H Chamto",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "S Ostergaard",
+              "bowler": "H Chamto",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "S Ostergaard",
+              "bowler": "H Chamto",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Frida Larsen",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Frida Larsen",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Frida Larsen",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Frida Larsen",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Frida Larsen",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Frida Larsen",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Frida Larsen",
+              "bowler": "H Chamto",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Frida Larsen",
+              "bowler": "H Chamto",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Frida Larsen",
+              "bowler": "H Chamto",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Frida Larsen",
+              "bowler": "H Chamto",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Frida Larsen",
+              "bowler": "H Chamto",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "S Ostergaard",
+              "bowler": "H Chamto",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Frida Larsen",
+              "bowler": "H Chamto",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "S Ostergaard",
+              "bowler": "Jayasooriya",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Frida Larsen",
+              "bowler": "Jayasooriya",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "S Ostergaard",
+              "bowler": "Jayasooriya",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "S Ostergaard",
+              "bowler": "Jayasooriya",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "S Ostergaard",
+              "bowler": "Jayasooriya",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "S Ostergaard",
+              "bowler": "Jayasooriya",
+              "non_striker": "Frida Larsen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Frida Larsen",
+              "bowler": "H Shreya",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Frida Larsen",
+                  "fielders": [
+                    {
+                      "name": "Eman Asim"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Thea Larsen",
+              "bowler": "H Shreya",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Thea Larsen",
+              "bowler": "H Shreya",
+              "non_striker": "S Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "S Ostergaard",
+                  "fielders": [
+                    {
+                      "name": "Malyun Yusuf"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "AB Slebsager",
+              "bowler": "H Shreya",
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Thea Larsen",
+              "bowler": "H Shreya",
+              "non_striker": "AB Slebsager",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "AB Slebsager",
+              "bowler": "H Shreya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "AB Slebsager",
+              "bowler": "H Shreya",
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AB Slebsager",
+                  "fielders": [
+                    {
+                      "name": "H Shreya"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Thea Larsen",
+              "bowler": "Jayasooriya",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "K Pandya",
+              "bowler": "Jayasooriya",
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "K Pandya",
+              "bowler": "Jayasooriya",
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Thea Larsen",
+              "bowler": "Jayasooriya",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "K Pandya",
+              "bowler": "Jayasooriya",
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Thea Larsen",
+              "bowler": "Jayasooriya",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Thea Larsen",
+              "bowler": "H Shreya",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "K Pandya",
+              "bowler": "H Shreya",
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Thea Larsen",
+              "bowler": "H Shreya",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Thea Larsen",
+              "bowler": "H Shreya",
+              "non_striker": "K Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "K Pandya",
+                  "fielders": [
+                    {
+                      "name": "A Vaidya"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Thea Larsen",
+              "bowler": "H Shreya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Thea Larsen",
+              "bowler": "H Shreya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "L Ostergaard",
+              "bowler": "Jayasooriya",
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "L Ostergaard",
+              "bowler": "Jayasooriya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "L Ostergaard",
+              "bowler": "Jayasooriya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "L Ostergaard",
+              "bowler": "Jayasooriya",
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "L Ostergaard",
+              "bowler": "Jayasooriya",
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "L Ostergaard",
+              "bowler": "Jayasooriya",
+              "non_striker": "Thea Larsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Thea Larsen",
+              "bowler": "Jayasooriya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Thea Larsen",
+              "bowler": "Jayasooriya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Thea Larsen",
+              "bowler": "H Shreya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Thea Larsen",
+              "bowler": "H Shreya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Thea Larsen",
+                  "fielders": [
+                    {
+                      "name": "Kanchan Rana"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "NP Dalgaard",
+              "bowler": "H Shreya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "NP Dalgaard",
+              "bowler": "H Shreya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NP Dalgaard",
+                  "fielders": [
+                    {
+                      "name": "E Thelander"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "ML Karlsen",
+              "bowler": "H Shreya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "ML Karlsen",
+              "bowler": "H Shreya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "ML Karlsen",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "ML Karlsen",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "ML Karlsen",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "ML Karlsen",
+              "bowler": "Malyun Yusuf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "ML Karlsen",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "ML Karlsen",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "ML Karlsen",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "ML Karlsen",
+              "bowler": "H Shreya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "L Ostergaard",
+              "bowler": "H Shreya",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "ML Karlsen",
+              "bowler": "H Shreya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "ML Karlsen",
+              "bowler": "H Shreya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "L Ostergaard",
+              "bowler": "H Shreya",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "ML Karlsen",
+              "bowler": "H Shreya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "ML Karlsen",
+              "bowler": "H Shreya",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "L Ostergaard",
+              "bowler": "H Chamto",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "L Ostergaard",
+              "bowler": "H Chamto",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "ML Karlsen",
+              "bowler": "H Chamto",
+              "non_striker": "L Ostergaard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "L Ostergaard",
+              "bowler": "H Chamto",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Ostergaard",
+                  "fielders": [
+                    {
+                      "name": "E Thelander"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "D Golechha",
+              "bowler": "H Chamto",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "D Golechha",
+              "bowler": "H Chamto",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "ML Karlsen",
+              "bowler": "Kanchan Rana",
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "ML Karlsen",
+              "bowler": "Kanchan Rana",
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "ML Karlsen",
+              "bowler": "Kanchan Rana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "ML Karlsen",
+              "bowler": "Kanchan Rana",
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "ML Karlsen",
+              "bowler": "Kanchan Rana",
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "D Golechha",
+              "bowler": "Kanchan Rana",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "ML Karlsen",
+              "bowler": "Kanchan Rana",
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "D Golechha",
+              "bowler": "Zara Mohammad",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "D Golechha",
+              "bowler": "Zara Mohammad",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "D Golechha",
+              "bowler": "Zara Mohammad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "D Golechha",
+              "bowler": "Zara Mohammad",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "ML Karlsen",
+              "bowler": "Zara Mohammad",
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "ML Karlsen",
+              "bowler": "Zara Mohammad",
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "ML Karlsen",
+              "bowler": "Zara Mohammad",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "ML Karlsen",
+              "bowler": "Zara Mohammad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "ML Karlsen",
+              "bowler": "Zara Mohammad",
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "D Golechha",
+              "bowler": "A Vaidya",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "D Golechha",
+              "bowler": "A Vaidya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "D Golechha",
+              "bowler": "A Vaidya",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "ML Karlsen",
+              "bowler": "A Vaidya",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "D Golechha",
+              "bowler": "A Vaidya",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "ML Karlsen",
+              "bowler": "A Vaidya",
+              "non_striker": "D Golechha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "D Golechha",
+              "bowler": "A Vaidya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "D Golechha",
+              "bowler": "A Vaidya",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Golechha",
+                  "fielders": [
+                    {
+                      "name": "Eman Asim"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "C Ostergaard",
+              "bowler": "A Vaidya",
+              "non_striker": "ML Karlsen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.2,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 18,
+        "runs": 146
+      }
+    }
+  ]
+}

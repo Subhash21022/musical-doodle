@@ -1,0 +1,2679 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-09-08",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dubai",
+    "dates": [
+      "2026-09-04"
+    ],
+    "event": {
+      "name": "Women's Asia Cup",
+      "match_number": 8,
+      "group": "B"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2996,
+    "officials": {
+      "match_referees": [
+        "GS Lakshmi"
+      ],
+      "reserve_umpires": [
+        "N Perera"
+      ],
+      "tv_umpires": [
+        "Humaira Farah"
+      ],
+      "umpires": [
+        "Shivani Mishra",
+        "VG Rathi"
+      ]
+    },
+    "outcome": {
+      "winner": "United Arab Emirates",
+      "by": {
+        "wickets": 6
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "ER Oza"
+    ],
+    "players": {
+      "Indonesia": [
+        "M Corazon",
+        "RD Pangestuti",
+        "NLKWR Dewi",
+        "NPAN Sakarini",
+        "NKF Rada Rani",
+        "D Wulandari",
+        "KS Kasse",
+        "NMP Suwandewi",
+        "Sofia Velic",
+        "NK Ariani",
+        "SAN Maypriani"
+      ],
+      "United Arab Emirates": [
+        "Theertha Satish",
+        "ER Oza",
+        "Rinitha Rajith",
+        "S Dharnidharka",
+        "H Hotchandani",
+        "L Keny",
+        "MP Kulkarni",
+        "Vaishnave Mahesh",
+        "Archara Supriya",
+        "J Thirukkumaran",
+        "S Kotte"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Archara Supriya": "b245cd8b",
+        "D Wulandari": "8c0d904e",
+        "ER Oza": "fdc6b34d",
+        "GS Lakshmi": "ba8d5615",
+        "H Hotchandani": "f537d39c",
+        "Humaira Farah": "6b6d6623",
+        "J Thirukkumaran": "eb2da352",
+        "KS Kasse": "007a3773",
+        "L Keny": "aea89d48",
+        "M Corazon": "0baa36e0",
+        "MP Kulkarni": "418787e5",
+        "N Perera": "129709f9",
+        "NK Ariani": "382377a4",
+        "NKF Rada Rani": "39f4084c",
+        "NLKWR Dewi": "d04fc4a4",
+        "NMP Suwandewi": "52b57a65",
+        "NPAN Sakarini": "72b5decf",
+        "RD Pangestuti": "63fc4b92",
+        "Rinitha Rajith": "36ba7f0b",
+        "S Dharnidharka": "f8b50da3",
+        "S Kotte": "6c8904c8",
+        "SAN Maypriani": "ad135bde",
+        "Shivani Mishra": "2982a0c7",
+        "Sofia Velic": "81ab2474",
+        "Theertha Satish": "ee3dcb3f",
+        "VG Rathi": "144e5b16",
+        "Vaishnave Mahesh": "31c56f40"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Indonesia",
+      "United Arab Emirates"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "United Arab Emirates"
+    },
+    "venue": "Dubai International Cricket Stadium"
+  },
+  "innings": [
+    {
+      "team": "Indonesia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "M Corazon",
+              "bowler": "S Kotte",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Corazon",
+                  "fielders": [
+                    {
+                      "name": "Theertha Satish"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "NLKWR Dewi",
+              "bowler": "S Kotte",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "NLKWR Dewi",
+              "bowler": "S Kotte",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NLKWR Dewi",
+                  "fielders": [
+                    {
+                      "name": "H Hotchandani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "NPAN Sakarini",
+              "bowler": "S Kotte",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "NPAN Sakarini",
+              "bowler": "S Kotte",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "NPAN Sakarini",
+              "bowler": "S Kotte",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "NPAN Sakarini",
+              "bowler": "S Kotte",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "RD Pangestuti",
+              "bowler": "ER Oza",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "RD Pangestuti",
+              "bowler": "ER Oza",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "RD Pangestuti",
+              "bowler": "ER Oza",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "NPAN Sakarini",
+              "bowler": "ER Oza",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "NPAN Sakarini",
+              "bowler": "ER Oza",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "NPAN Sakarini",
+              "bowler": "ER Oza",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "RD Pangestuti",
+              "bowler": "S Kotte",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "RD Pangestuti",
+              "bowler": "S Kotte",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "RD Pangestuti",
+              "bowler": "S Kotte",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "NPAN Sakarini",
+              "bowler": "S Kotte",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "NPAN Sakarini",
+              "bowler": "S Kotte",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "NPAN Sakarini",
+              "bowler": "S Kotte",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "NPAN Sakarini",
+              "bowler": "S Kotte",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "RD Pangestuti",
+              "bowler": "ER Oza",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "RD Pangestuti",
+              "bowler": "ER Oza",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RD Pangestuti",
+                  "fielders": [
+                    {
+                      "name": "Theertha Satish"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "NKF Rada Rani",
+              "bowler": "ER Oza",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "NKF Rada Rani",
+              "bowler": "ER Oza",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "NKF Rada Rani",
+              "bowler": "ER Oza",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "NPAN Sakarini",
+              "bowler": "ER Oza",
+              "non_striker": "NKF Rada Rani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "NKF Rada Rani",
+              "bowler": "H Hotchandani",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "NPAN Sakarini",
+              "bowler": "H Hotchandani",
+              "non_striker": "NKF Rada Rani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "NPAN Sakarini",
+              "bowler": "H Hotchandani",
+              "non_striker": "NKF Rada Rani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "NKF Rada Rani",
+              "bowler": "H Hotchandani",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "NKF Rada Rani",
+              "bowler": "H Hotchandani",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "NKF Rada Rani",
+              "bowler": "H Hotchandani",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "NPAN Sakarini",
+              "bowler": "ER Oza",
+              "non_striker": "NKF Rada Rani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "NKF Rada Rani",
+              "bowler": "ER Oza",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "NKF Rada Rani",
+              "bowler": "ER Oza",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "NKF Rada Rani",
+              "bowler": "ER Oza",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "NPAN Sakarini",
+              "bowler": "ER Oza",
+              "non_striker": "NKF Rada Rani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "NPAN Sakarini",
+              "bowler": "ER Oza",
+              "non_striker": "NKF Rada Rani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "NPAN Sakarini",
+              "bowler": "H Hotchandani",
+              "non_striker": "NKF Rada Rani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "NPAN Sakarini",
+              "bowler": "H Hotchandani",
+              "non_striker": "NKF Rada Rani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "NPAN Sakarini",
+              "bowler": "H Hotchandani",
+              "non_striker": "NKF Rada Rani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "NKF Rada Rani",
+              "bowler": "H Hotchandani",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "NKF Rada Rani",
+              "bowler": "H Hotchandani",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NKF Rada Rani",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "D Wulandari",
+              "bowler": "H Hotchandani",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "NPAN Sakarini",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "NPAN Sakarini",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "NPAN Sakarini",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "NPAN Sakarini",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "NPAN Sakarini",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "D Wulandari",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "NPAN Sakarini",
+              "bowler": "H Hotchandani",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "NPAN Sakarini",
+              "bowler": "H Hotchandani",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "NPAN Sakarini",
+              "bowler": "H Hotchandani",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "NPAN Sakarini",
+              "bowler": "H Hotchandani",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "NPAN Sakarini",
+              "bowler": "H Hotchandani",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "D Wulandari",
+              "bowler": "H Hotchandani",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "NPAN Sakarini",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "NPAN Sakarini",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "NPAN Sakarini",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "NPAN Sakarini",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "NPAN Sakarini",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "NPAN Sakarini",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "D Wulandari",
+              "bowler": "S Dharnidharka",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "D Wulandari",
+              "bowler": "S Dharnidharka",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "NPAN Sakarini",
+              "bowler": "S Dharnidharka",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "NPAN Sakarini",
+              "bowler": "S Dharnidharka",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "NPAN Sakarini",
+              "bowler": "S Dharnidharka",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "D Wulandari",
+              "bowler": "S Dharnidharka",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "NPAN Sakarini",
+              "bowler": "J Thirukkumaran",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "NPAN Sakarini",
+              "bowler": "J Thirukkumaran",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "NPAN Sakarini",
+              "bowler": "J Thirukkumaran",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "NPAN Sakarini",
+              "bowler": "J Thirukkumaran",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "D Wulandari",
+              "bowler": "J Thirukkumaran",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "NPAN Sakarini",
+              "bowler": "J Thirukkumaran",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "D Wulandari",
+              "bowler": "S Dharnidharka",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "D Wulandari",
+              "bowler": "S Dharnidharka",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "D Wulandari",
+              "bowler": "S Dharnidharka",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "NPAN Sakarini",
+              "bowler": "S Dharnidharka",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "D Wulandari",
+              "bowler": "S Dharnidharka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "D Wulandari",
+              "bowler": "S Dharnidharka",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "NPAN Sakarini",
+              "bowler": "S Dharnidharka",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "NPAN Sakarini",
+              "bowler": "J Thirukkumaran",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "D Wulandari",
+              "bowler": "J Thirukkumaran",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "D Wulandari",
+              "bowler": "J Thirukkumaran",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "D Wulandari",
+              "bowler": "J Thirukkumaran",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "NPAN Sakarini",
+              "bowler": "J Thirukkumaran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "NPAN Sakarini",
+              "bowler": "J Thirukkumaran",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "D Wulandari",
+              "bowler": "J Thirukkumaran",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "NPAN Sakarini",
+              "bowler": "S Kotte",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "D Wulandari",
+              "bowler": "S Kotte",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "D Wulandari",
+              "bowler": "S Kotte",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "D Wulandari",
+              "bowler": "S Kotte",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "D Wulandari",
+              "bowler": "S Kotte",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "D Wulandari",
+              "bowler": "S Kotte",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "NPAN Sakarini",
+              "bowler": "ER Oza",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "NPAN Sakarini",
+              "bowler": "ER Oza",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "D Wulandari",
+              "bowler": "ER Oza",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "D Wulandari",
+              "bowler": "ER Oza",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "D Wulandari",
+              "bowler": "ER Oza",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "NPAN Sakarini",
+              "bowler": "ER Oza",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NPAN Sakarini",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "D Wulandari",
+              "bowler": "S Dharnidharka",
+              "non_striker": "KS Kasse",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "KS Kasse",
+              "bowler": "S Dharnidharka",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "D Wulandari",
+              "bowler": "S Dharnidharka",
+              "non_striker": "KS Kasse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "D Wulandari",
+              "bowler": "S Dharnidharka",
+              "non_striker": "KS Kasse",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "D Wulandari",
+              "bowler": "S Dharnidharka",
+              "non_striker": "KS Kasse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "D Wulandari",
+              "bowler": "S Dharnidharka",
+              "non_striker": "KS Kasse",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Wulandari",
+                  "fielders": [
+                    {
+                      "name": "L Keny"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "KS Kasse",
+              "bowler": "S Kotte",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KS Kasse",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Sofia Velic",
+              "bowler": "S Kotte",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "NMP Suwandewi",
+              "bowler": "S Kotte",
+              "non_striker": "Sofia Velic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "NMP Suwandewi",
+              "bowler": "S Kotte",
+              "non_striker": "Sofia Velic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "NMP Suwandewi",
+              "bowler": "S Kotte",
+              "non_striker": "Sofia Velic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "NMP Suwandewi",
+              "bowler": "S Kotte",
+              "non_striker": "Sofia Velic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "Sofia Velic",
+              "bowler": "H Hotchandani",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sofia Velic",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "NK Ariani",
+              "bowler": "H Hotchandani",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "NMP Suwandewi",
+              "bowler": "H Hotchandani",
+              "non_striker": "NK Ariani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "NMP Suwandewi",
+              "bowler": "H Hotchandani",
+              "non_striker": "NK Ariani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "NMP Suwandewi",
+              "bowler": "H Hotchandani",
+              "non_striker": "NK Ariani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "NMP Suwandewi",
+              "bowler": "H Hotchandani",
+              "non_striker": "NK Ariani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "NMP Suwandewi",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "NK Ariani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "NMP Suwandewi",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "NK Ariani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "NK Ariani",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NK Ariani",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "SAN Maypriani",
+              "bowler": "Vaishnave Mahesh",
+              "non_striker": "NMP Suwandewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SAN Maypriani",
+                  "fielders": [
+                    {
+                      "name": "J Thirukkumaran"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "United Arab Emirates",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Theertha Satish",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Theertha Satish",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Theertha Satish",
+              "bowler": "NMP Suwandewi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Theertha Satish",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Theertha Satish",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Theertha Satish",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Theertha Satish",
+              "bowler": "NMP Suwandewi",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "ER Oza",
+              "bowler": "NK Ariani",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "ER Oza",
+              "bowler": "NK Ariani",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "ER Oza",
+              "bowler": "NK Ariani",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "ER Oza",
+              "bowler": "NK Ariani",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "ER Oza",
+              "bowler": "NK Ariani",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Theertha Satish",
+              "bowler": "NK Ariani",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "ER Oza",
+              "bowler": "SAN Maypriani",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "ER Oza",
+              "bowler": "SAN Maypriani",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "ER Oza",
+              "bowler": "SAN Maypriani",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Theertha Satish",
+              "bowler": "SAN Maypriani",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Theertha Satish",
+              "bowler": "SAN Maypriani",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Theertha Satish",
+              "bowler": "SAN Maypriani",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "ER Oza",
+              "bowler": "NK Ariani",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "ER Oza",
+              "bowler": "NK Ariani",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "ER Oza",
+              "bowler": "NK Ariani",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Theertha Satish",
+              "bowler": "NK Ariani",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "ER Oza",
+              "bowler": "NK Ariani",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "ER Oza",
+              "bowler": "NK Ariani",
+              "non_striker": "Theertha Satish",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Theertha Satish",
+              "bowler": "SAN Maypriani",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Theertha Satish",
+                  "fielders": [
+                    {
+                      "name": "NLKWR Dewi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Rinitha Rajith",
+              "bowler": "SAN Maypriani",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Rinitha Rajith",
+              "bowler": "SAN Maypriani",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "ER Oza",
+              "bowler": "SAN Maypriani",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Rinitha Rajith",
+              "bowler": "SAN Maypriani",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "ER Oza",
+              "bowler": "SAN Maypriani",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Rinitha Rajith",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Rinitha Rajith",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Rinitha Rajith",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "ER Oza",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "ER Oza",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "ER Oza",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Rinitha Rajith",
+              "bowler": "Sofia Velic",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "ER Oza",
+              "bowler": "Sofia Velic",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Rinitha Rajith",
+              "bowler": "Sofia Velic",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "ER Oza",
+              "bowler": "Sofia Velic",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Rinitha Rajith",
+              "bowler": "Sofia Velic",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "ER Oza",
+              "bowler": "Sofia Velic",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Rinitha Rajith",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Rinitha Rajith",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Rinitha Rajith",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "ER Oza",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "ER Oza",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "ER Oza",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Rinitha Rajith",
+              "bowler": "Sofia Velic",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Rinitha Rajith",
+              "bowler": "Sofia Velic",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Rinitha Rajith",
+              "bowler": "Sofia Velic",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Rinitha Rajith",
+              "bowler": "Sofia Velic",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Rinitha Rajith",
+              "bowler": "Sofia Velic",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Rinitha Rajith",
+              "bowler": "Sofia Velic",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "ER Oza",
+              "bowler": "SAN Maypriani",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "ER Oza",
+              "bowler": "SAN Maypriani",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Rinitha Rajith",
+              "bowler": "SAN Maypriani",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "ER Oza",
+              "bowler": "SAN Maypriani",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "ER Oza",
+              "bowler": "SAN Maypriani",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Rinitha Rajith",
+              "bowler": "SAN Maypriani",
+              "non_striker": "ER Oza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "ER Oza",
+              "bowler": "NK Ariani",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ER Oza",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "S Dharnidharka",
+              "bowler": "NK Ariani",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "S Dharnidharka",
+              "bowler": "NK Ariani",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "S Dharnidharka",
+              "bowler": "NK Ariani",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Rinitha Rajith",
+              "bowler": "NK Ariani",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Rinitha Rajith",
+              "bowler": "NK Ariani",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Rinitha Rajith",
+              "bowler": "Sofia Velic",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "S Dharnidharka",
+              "bowler": "Sofia Velic",
+              "non_striker": "Rinitha Rajith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Rinitha Rajith",
+              "bowler": "Sofia Velic",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rinitha Rajith",
+                  "fielders": [
+                    {
+                      "name": "NPAN Sakarini"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "H Hotchandani",
+              "bowler": "Sofia Velic",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "H Hotchandani",
+              "bowler": "Sofia Velic",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Hotchandani",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "L Keny",
+              "bowler": "Sofia Velic",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "S Dharnidharka",
+              "bowler": "NK Ariani",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "S Dharnidharka",
+              "bowler": "NK Ariani",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "L Keny",
+              "bowler": "NK Ariani",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "L Keny",
+              "bowler": "NK Ariani",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "S Dharnidharka",
+              "bowler": "NK Ariani",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "L Keny",
+              "bowler": "NK Ariani",
+              "non_striker": "S Dharnidharka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "S Dharnidharka",
+              "bowler": "Sofia Velic",
+              "non_striker": "L Keny",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 74
+      }
+    }
+  ]
+}

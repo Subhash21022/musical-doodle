@@ -1,0 +1,315 @@
+import json
+import os
+import shutil
+
+notebook = {
+    "cells": [
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "# 🏏 Cricket Pitch & Weather Performance Benchmark: Starter Guide\n",
+                "### Analyzing How Air Density, Venue Altitude, Boundaries, and Pitch Soil Impact Cricket Outcomes\n",
+                "\n",
+                "---\n",
+                "\n",
+                "## 📌 Overview\n",
+                "This starter notebook demonstrates how to load, visualize, and model the **Cricket Pitch and Weather Performance Benchmark** dataset.\n",
+                "\n",
+                "### Key Research Questions Covered:\n",
+                "1. **Aerodynamics & Six-Hitting**: How does moist air density ($\\rho$) at varying altitudes affect six-hitting frequency?\n",
+                "2. **Pitch Soil Agronomy**: How do **Red Soil**, **Black Soil**, and **Drop-in wickets** compare in first-innings run rates and average scores?\n",
+                "3. **Dew & Innings Asymmetry**: Does a high dew risk index disproportionately hurt 2nd innings bowling economy for pace vs. spin bowlers?\n",
+                "4. **Granular Deliveries**: How to query and analyze 1.6M+ ball-by-ball deliveries using Apache Parquet."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# 1. Imports and Environment Setup\n",
+                "import os\n",
+                "import glob\n",
+                "import numpy as np\n",
+                "import pandas as pd\n",
+                "import matplotlib.pyplot as plt\n",
+                "import seaborn as sns\n",
+                "import pyarrow.parquet as pq\n",
+                "\n",
+                "sns.set_theme(style=\"whitegrid\", palette=\"muted\")\n",
+                "plt.rcParams[\"figure.figsize\"] = (10, 5)\n",
+                "\n",
+                "# Auto-detect data path (works both on Kaggle and locally)\n",
+                "def find_data_path():\n",
+                "    kaggle_paths = glob.glob(\"/kaggle/input/**/matches_enriched.csv\", recursive=True)\n",
+                "    if kaggle_paths:\n",
+                "        return os.path.dirname(kaggle_paths[0])\n",
+                "    local_paths = [\"data/processed\", \".\", \"kaggle_upload\"]\n",
+                "    for p in local_paths:\n",
+                "        if os.path.exists(os.path.join(p, \"matches_enriched.csv\")):\n",
+                "            return p\n",
+                "    return \".\"\n",
+                "\n",
+                "DATA_DIR = find_data_path()\n",
+                "print(f\"Data directory detected at: {DATA_DIR}\")\n",
+                "for f in os.listdir(DATA_DIR):\n",
+                "    if f.endswith((\".csv\", \".parquet\")):\n",
+                "        size_mb = os.path.getsize(os.path.join(DATA_DIR, f)) / (1024 * 1024)\n",
+                "        print(f\"  - {f:<32} ({size_mb:.2f} MB)\")"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "---\n",
+                "## 🏟️ 2. Loading Matches & Venue Characteristics"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "df_matches = pd.read_csv(os.path.join(DATA_DIR, \"matches_enriched.csv\"))\n",
+                "df_venues = pd.read_csv(os.path.join(DATA_DIR, \"venues_master.csv\"))\n",
+                "\n",
+                "print(\"Total matches loaded:\", len(df_matches))\n",
+                "print(\"Total stadiums cataloged:\", len(df_venues))\n",
+                "\n",
+                "# Preview match sample\n",
+                "df_matches[[\"match_id\", \"season\", \"venue_name\", \"elevation_m\", \"air_density_kg_m3\", \"pitch_soil_type\", \"match_total_sixes\", \"innings1_runs\"]].head()"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "---\n",
+                "## 🌬️ 3. Aerodynamics: Air Density & Elevation vs. Six-Hitting\n",
+                "In aerodynamics, drag force is given by $F_D = \\frac{1}{2} \\rho v^2 C_D A$. At high altitude venues (like Wanderers at 1,720m or Dharamsala at 1,457m), air density $\\rho$ drops by up to 20%, resulting in lower aerodynamic drag and longer ball flight distances."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# Filter for venues with at least 15 matches for reliable averages\n",
+                "venue_stats = df_matches.groupby(\"venue_name\").filter(lambda g: len(g) >= 15).groupby(\"venue_name\").agg(\n",
+                "    matches=(\"match_id\", \"count\"),\n",
+                "    elevation_m=(\"elevation_m\", \"first\"),\n",
+                "    air_density=(\"air_density_kg_m3\", \"mean\"),\n",
+                "    avg_sixes=(\"match_total_sixes\", \"mean\"),\n",
+                "    avg_boundary_m=(\"boundary_avg_m\", \"first\")\n",
+                ").reset_index()\n",
+                "\n",
+                "plt.figure(figsize=(10, 6))\n",
+                "scatter = plt.scatter(\n",
+                "    venue_stats[\"air_density\"],\n",
+                "    venue_stats[\"avg_sixes\"],\n",
+                "    c=venue_stats[\"elevation_m\"],\n",
+                "    s=venue_stats[\"matches\"] * 2,\n",
+                "    cmap=\"viridis\",\n",
+                "    edgecolor=\"black\",\n",
+                "    alpha=0.85\n",
+                ")\n",
+                "cbar = plt.colorbar(scatter)\n",
+                "cbar.set_label(\"Elevation (meters above sea level)\")\n",
+                "\n",
+                "# Overlay regression trendline\n",
+                "sns.regplot(data=venue_stats, x=\"air_density\", y=\"avg_sixes\", scatter=False, color=\"crimson\")\n",
+                "plt.title(\"Moist Air Density (rho) vs. Average Sixes per Match\", fontsize=13, fontweight=\"bold\")\n",
+                "plt.xlabel(\"Air Density (kg/m3) [Lower = Thinner Air at Altitude]\")\n",
+                "plt.ylabel(\"Average Sixes Hit per Match\")\n",
+                "plt.tight_layout()\n",
+                "plt.show()"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "---\n",
+                "## 🌿 4. Pitch Soil Profile vs. 1st Innings Scoring\n",
+                "Let's compare how pitch soil composition (Red Soil, Black Soil, Clay/Loam, Drop-in turf) shapes batting scoring potential across venues."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# Filter soil categories with at least 30 matches\n",
+                "soil_counts = df_matches[\"pitch_soil_type\"].value_counts()\n",
+                "top_soils = soil_counts[soil_counts >= 30].index\n",
+                "df_soils = df_matches[df_matches[\"pitch_soil_type\"].isin(top_soils)]\n",
+                "\n",
+                "soil_summary = df_soils.groupby(\"pitch_soil_type\").agg(\n",
+                "    matches=(\"match_id\", \"count\"),\n",
+                "    avg_1st_innings_runs=(\"innings1_runs\", \"mean\"),\n",
+                "    avg_run_rate=(\"innings1_run_rate\", \"mean\"),\n",
+                "    avg_sixes=(\"match_total_sixes\", \"mean\")\n",
+                ").sort_values(by=\"avg_1st_innings_runs\", ascending=False).round(2)\n",
+                "\n",
+                "print(\"=== PITCH SOIL COMPOSITION BENCHMARK ===\")\n",
+                "display(soil_summary)\n",
+                "\n",
+                "plt.figure(figsize=(11, 5))\n",
+                "order = soil_summary.index\n",
+                "sns.boxplot(data=df_soils, x=\"innings1_runs\", y=\"pitch_soil_type\", order=order, palette=\"Spectral\")\n",
+                "plt.title(\"1st Innings Total Score Distribution by Pitch Soil Profile\", fontsize=13, fontweight=\"bold\")\n",
+                "plt.xlabel(\"1st Innings Total Runs\")\n",
+                "plt.ylabel(\"Pitch Soil Profile\")\n",
+                "plt.tight_layout()\n",
+                "plt.show()"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "---\n",
+                "## 💧 5. Dew Index & Innings Asymmetry (Chasing Advantage)"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "# Categorize Dew Levels\n",
+                "def get_dew_bracket(d):\n",
+                "    if d < 0.25:\n",
+                "        return \"1. Low Dew Risk (< 0.25)\"\n",
+                "    elif d < 0.60:\n",
+                "        return \"2. Moderate Dew Risk (0.25 - 0.60)\"\n",
+                "    else:\n",
+                "        return \"3. High Dew Risk (>= 0.60)\"\n",
+                "\n",
+                "df_matches[\"dew_bracket\"] = df_matches[\"dew_index\"].apply(get_dew_bracket)\n",
+                "df_matches[\"chasing_won\"] = (df_matches[\"match_winner\"] == df_matches[\"innings2_team\"]).astype(int)\n",
+                "\n",
+                "dew_analysis = df_matches.groupby(\"dew_bracket\").agg(\n",
+                "    matches=(\"match_id\", \"count\"),\n",
+                "    chasing_win_pct=(\"chasing_won\", lambda x: round(x.mean() * 100, 1)),\n",
+                "    avg_inn1_score=(\"innings1_runs\", \"mean\"),\n",
+                "    avg_inn2_score=(\"innings2_runs\", \"mean\"),\n",
+                "    avg_inn1_rr=(\"innings1_run_rate\", \"mean\"),\n",
+                "    avg_inn2_rr=(\"innings2_run_rate\", \"mean\")\n",
+                ").round(2)\n",
+                "\n",
+                "print(\"=== DEW RISK BENCHMARK ===\")\n",
+                "display(dew_analysis)"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "---\n",
+                "## ⚡ 6. Granular Ball-by-Ball Analysis with Parquet\n",
+                "Let's load the 1.6M+ delivery dataset to analyze **Pace vs. Spin bowling performance across match phases** (Powerplay, Middle, Death)."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "parquet_file = os.path.join(DATA_DIR, \"deliveries_enriched.parquet\")\n",
+                "\n",
+                "# Load key columns from Parquet efficiently\n",
+                "columns_to_load = [\"phase\", \"bowler_type\", \"innings\", \"runs_total\", \"is_dot\", \"is_boundary_six\", \"is_wicket\"]\n",
+                "table = pq.read_table(parquet_file, columns=columns_to_load)\n",
+                "df_deliv = table.to_pandas()\n",
+                "\n",
+                "print(\"Total deliveries loaded from Parquet:\", len(df_deliv))\n",
+                "\n",
+                "# Phase Breakdown: Pace vs Spin Economy and Dot %\n",
+                "phase_stats = df_deliv.groupby([\"phase\", \"bowler_type\"]).agg(\n",
+                "    balls=(\"runs_total\", \"count\"),\n",
+                "    total_runs=(\"runs_total\", \"sum\"),\n",
+                "    wickets=(\"is_wicket\", \"sum\"),\n",
+                "    dots=(\"is_dot\", \"sum\")\n",
+                ").reset_index()\n",
+                "\n",
+                "phase_stats[\"overs\"] = phase_stats[\"balls\"] / 6.0\n",
+                "phase_stats[\"economy_rate\"] = (phase_stats[\"total_runs\"] / phase_stats[\"overs\"]).round(2)\n",
+                "phase_stats[\"dot_ball_pct\"] = ((phase_stats[\"dots\"] / phase_stats[\"balls\"]) * 100).round(1)\n",
+                "phase_stats[\"strike_rate\"] = (phase_stats[\"balls\"] / phase_stats[\"wickets\"]).round(1)\n",
+                "\n",
+                "display(phase_stats[[\"phase\", \"bowler_type\", \"overs\", \"economy_rate\", \"dot_ball_pct\", \"strike_rate\"]])"
+            ]
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": [
+                "---\n",
+                "## 🤖 7. Baseline Predictive Model: Predicting 1st Innings Runs\n",
+                "Predicting total first-innings runs directly from pre-match environmental features (Elevation, Air Density, Boundary Distance, and Temperature)."
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": None,
+            "metadata": {},
+            "outputs": [],
+            "source": [
+                "from sklearn.model_selection import train_test_split\n",
+                "from sklearn.ensemble import RandomForestRegressor\n",
+                "from sklearn.metrics import mean_absolute_error\n",
+                "\n",
+                "# Filter complete matches\n",
+                "model_df = df_matches[df_matches[\"innings1_overs\"] >= 18].dropna(subset=[\n",
+                "    \"elevation_m\", \"air_density_kg_m3\", \"boundary_avg_m\", \"temperature_c\", \"relative_humidity_pct\", \"innings1_runs\"\n",
+                "]).copy()\n",
+                "\n",
+                "features = [\"elevation_m\", \"air_density_kg_m3\", \"boundary_avg_m\", \"temperature_c\", \"relative_humidity_pct\"]\n",
+                "X = model_df[features]\n",
+                "y = model_df[\"innings1_runs\"]\n",
+                "\n",
+                "X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)\n",
+                "\n",
+                "rf = RandomForestRegressor(n_estimators=100, random_state=42)\n",
+                "rf.fit(X_train, y_train)\n",
+                "preds = rf.predict(X_test)\n",
+                "\n",
+                "print(\"Baseline Random Forest MAE:\", round(mean_absolute_error(y_test, preds), 2), \"runs\")\n",
+                "\n",
+                "# Feature Importance\n",
+                "feat_imp = pd.Series(rf.feature_importances_, index=features).sort_values(ascending=False)\n",
+                "plt.figure(figsize=(8, 4))\n",
+                "feat_imp.plot(kind=\"barh\", color=\"teal\")\n",
+                "plt.title(\"Condition Feature Importance for Expected 1st Innings Runs\", fontsize=12, fontweight=\"bold\")\n",
+                "plt.xlabel(\"Importance Score\")\n",
+                "plt.tight_layout()\n",
+                "plt.show()"
+            ]
+        }
+    ],
+    "metadata": {
+        "language_info": {
+            "name": "python",
+            "version": "3.11"
+        }
+    },
+    "nbformat": 4,
+    "nbformat_minor": 4
+}
+
+base_dir = r"c:\Users\SUBHASH B\Desktop\Cricket dataset"
+out_path = os.path.join(base_dir, "Cricket_Pitch_Weather_Benchmark_Starter.ipynb")
+with open(out_path, "w", encoding="utf-8") as f:
+    json.dump(notebook, f, indent=2)
+
+shutil.copy2(out_path, os.path.join(base_dir, "kaggle_upload", "Cricket_Pitch_Weather_Benchmark_Starter.ipynb"))
+print("Successfully generated:", out_path)

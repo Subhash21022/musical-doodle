@@ -1,0 +1,1848 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-09-17",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Nisshin",
+    "dates": [
+      "2026-09-17"
+    ],
+    "event": {
+      "name": "Asian Games Women's Cricket Competition",
+      "stage": "Quarter Final"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 3018,
+    "officials": {
+      "match_referees": [
+        "SR Das"
+      ],
+      "reserve_umpires": [
+        "Gayathri Venugopal"
+      ],
+      "tv_umpires": [
+        "Shathira Jakir"
+      ],
+      "umpires": [
+        "N Perera",
+        "Shivani Mishra"
+      ]
+    },
+    "outcome": {
+      "winner": "Pakistan",
+      "by": {
+        "wickets": 3
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Thailand": [
+        "N Chantam",
+        "P Maya",
+        "N Koncharoenkai",
+        "N Chaiwai",
+        "C Sutthiruang",
+        "A Suwanchonrathi",
+        "N Chaihan",
+        "S Laomi",
+        "S Chaturongrattana",
+        "O Kamchomphu",
+        "T Putthawong"
+      ],
+      "Pakistan": [
+        "Gull Feroza",
+        "Shawaal Zulfiqar",
+        "Ayesha Zafar",
+        "Fatima Sana",
+        "Aliya Riaz",
+        "Eyman Fatima",
+        "Tuba Hassan",
+        "Eman Naseer",
+        "Umm-e-Hani",
+        "Tasmia Rubab",
+        "Nashra Sandhu"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Suwanchonrathi": "43a2244f",
+        "Aliya Riaz": "2904b4b6",
+        "Ayesha Zafar": "e15f4fa4",
+        "C Sutthiruang": "f6ddfe08",
+        "Eman Naseer": "2a96675a",
+        "Eyman Fatima": "4357f6f8",
+        "Fatima Sana": "ea9c54de",
+        "Gayathri Venugopal": "20e3ae99",
+        "Gull Feroza": "9ff1e91e",
+        "N Chaihan": "61b60bb3",
+        "N Chaiwai": "0825e4b3",
+        "N Chantam": "b5626ff7",
+        "N Koncharoenkai": "82c78412",
+        "N Perera": "129709f9",
+        "Nashra Sandhu": "c981d3c2",
+        "O Kamchomphu": "519b872a",
+        "P Maya": "72eada4c",
+        "S Chaturongrattana": "bd36bc39",
+        "S Laomi": "4b15618c",
+        "SR Das": "f4e52218",
+        "Shathira Jakir": "6b992a6f",
+        "Shawaal Zulfiqar": "adb2f55e",
+        "Shivani Mishra": "2982a0c7",
+        "T Putthawong": "23e3f2d6",
+        "Tasmia Rubab": "bf350134",
+        "Tuba Hassan": "0d56e9a5",
+        "Umm-e-Hani": "6ee11109"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "Thailand",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Pakistan"
+    },
+    "venue": "Korogi Sports Park, Nisshin"
+  },
+  "innings": [
+    {
+      "team": "Thailand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "N Chantam",
+              "bowler": "Tasmia Rubab",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "N Chantam",
+              "bowler": "Tasmia Rubab",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "P Maya",
+              "bowler": "Tasmia Rubab",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "P Maya",
+              "bowler": "Tasmia Rubab",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "N Chantam",
+              "bowler": "Tasmia Rubab",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "P Maya",
+              "bowler": "Tasmia Rubab",
+              "non_striker": "N Chantam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "N Chantam",
+              "bowler": "Fatima Sana",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "N Chantam",
+              "bowler": "Fatima Sana",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Chantam",
+                  "fielders": [
+                    {
+                      "name": "Ayesha Zafar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "N Koncharoenkai",
+              "bowler": "Fatima Sana",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "N Koncharoenkai",
+              "bowler": "Fatima Sana",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "N Koncharoenkai",
+              "bowler": "Fatima Sana",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "P Maya",
+              "bowler": "Fatima Sana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "P Maya",
+              "bowler": "Fatima Sana",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "N Koncharoenkai",
+              "bowler": "Tasmia Rubab",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "N Koncharoenkai",
+              "bowler": "Tasmia Rubab",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "N Koncharoenkai",
+              "bowler": "Tasmia Rubab",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "N Koncharoenkai",
+              "bowler": "Tasmia Rubab",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "N Koncharoenkai",
+              "bowler": "Tasmia Rubab",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "N Koncharoenkai",
+              "bowler": "Tasmia Rubab",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "N Koncharoenkai",
+              "bowler": "Tasmia Rubab",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "N Koncharoenkai",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "N Koncharoenkai",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "P Maya",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "N Koncharoenkai",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "P Maya",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "N Koncharoenkai",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "N Koncharoenkai",
+              "bowler": "Tuba Hassan",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "N Koncharoenkai",
+              "bowler": "Tuba Hassan",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "P Maya",
+              "bowler": "Tuba Hassan",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "N Koncharoenkai",
+              "bowler": "Tuba Hassan",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "N Koncharoenkai",
+              "bowler": "Tuba Hassan",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "P Maya",
+              "bowler": "Tuba Hassan",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "N Koncharoenkai",
+              "bowler": "Umm-e-Hani",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "N Koncharoenkai",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "P Maya",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "N Koncharoenkai",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "N Koncharoenkai",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "P Maya",
+              "bowler": "Umm-e-Hani",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "N Koncharoenkai",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "N Koncharoenkai",
+              "bowler": "Tuba Hassan",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "N Koncharoenkai",
+              "bowler": "Tuba Hassan",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "N Koncharoenkai",
+              "bowler": "Tuba Hassan",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "N Koncharoenkai",
+              "bowler": "Tuba Hassan",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "P Maya",
+              "bowler": "Tuba Hassan",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "P Maya",
+              "bowler": "Tuba Hassan",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "P Maya",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "N Koncharoenkai",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "N Koncharoenkai",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "N Koncharoenkai",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "N Koncharoenkai",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "P Maya",
+              "bowler": "Umm-e-Hani",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "N Koncharoenkai",
+              "bowler": "Fatima Sana",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "P Maya",
+              "bowler": "Fatima Sana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "P Maya",
+              "bowler": "Fatima Sana",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "P Maya",
+              "bowler": "Fatima Sana",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "N Koncharoenkai",
+              "bowler": "Fatima Sana",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "P Maya",
+              "bowler": "Fatima Sana",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "N Koncharoenkai",
+              "bowler": "Fatima Sana",
+              "non_striker": "P Maya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              },
+              "wickets": [
+                {
+                  "player_out": "P Maya",
+                  "kind": "retired out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "N Chaiwai",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "N Chaiwai",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "N Chaiwai",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Chaiwai",
+                  "fielders": [
+                    {
+                      "name": "Fatima Sana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "C Sutthiruang",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "C Sutthiruang",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "N Koncharoenkai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "N Koncharoenkai",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "N Koncharoenkai",
+              "bowler": "Fatima Sana",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "N Koncharoenkai",
+              "bowler": "Fatima Sana",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "N Koncharoenkai",
+              "bowler": "Fatima Sana",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "N Koncharoenkai",
+              "bowler": "Fatima Sana",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Koncharoenkai",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "A Suwanchonrathi",
+              "bowler": "Fatima Sana",
+              "non_striker": "C Sutthiruang",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "C Sutthiruang",
+              "bowler": "Fatima Sana",
+              "non_striker": "A Suwanchonrathi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.2,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Gull Feroza",
+              "bowler": "T Putthawong",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "T Putthawong",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Gull Feroza",
+              "bowler": "T Putthawong",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "T Putthawong",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "T Putthawong",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "T Putthawong",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "P Maya",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "P Maya",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "P Maya",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "P Maya",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "P Maya",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Gull Feroza",
+              "bowler": "P Maya",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Gull Feroza",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Gull Feroza",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Gull Feroza",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Gull Feroza",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Gull Feroza",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Gull Feroza",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Shawaal Zulfiqar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Shawaal Zulfiqar",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shawaal Zulfiqar",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Ayesha Zafar",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Ayesha Zafar",
+              "bowler": "S Laomi",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Ayesha Zafar",
+              "bowler": "S Laomi",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Ayesha Zafar",
+              "bowler": "S Laomi",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ayesha Zafar",
+                  "fielders": [
+                    {
+                      "name": "P Maya"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Fatima Sana",
+              "bowler": "S Laomi",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Fatima Sana",
+              "bowler": "S Laomi",
+              "non_striker": "Gull Feroza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Gull Feroza",
+              "bowler": "S Laomi",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Gull Feroza",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Gull Feroza",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Gull Feroza",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Gull Feroza",
+                  "fielders": [
+                    {
+                      "name": "N Koncharoenkai"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Aliya Riaz",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Aliya Riaz",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Aliya Riaz",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aliya Riaz",
+                  "fielders": [
+                    {
+                      "name": "N Chantam"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Fatima Sana",
+              "bowler": "S Laomi",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Fatima Sana",
+              "bowler": "S Laomi",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Fatima Sana",
+              "bowler": "S Laomi",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Fatima Sana",
+              "bowler": "S Laomi",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Fatima Sana",
+              "bowler": "S Laomi",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Eyman Fatima",
+              "bowler": "S Laomi",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Fatima Sana",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Fatima Sana",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Fatima Sana",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Fatima Sana",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Fatima Sana",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Eyman Fatima",
+              "bowler": "O Kamchomphu",
+              "non_striker": "Fatima Sana",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Fatima Sana",
+              "bowler": "P Maya",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Fatima Sana",
+                  "fielders": [
+                    {
+                      "name": "A Suwanchonrathi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Tuba Hassan",
+              "bowler": "P Maya",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Eyman Fatima",
+              "bowler": "P Maya",
+              "non_striker": "Tuba Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Eyman Fatima",
+              "bowler": "P Maya",
+              "non_striker": "Tuba Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Tuba Hassan",
+              "bowler": "P Maya",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Tuba Hassan",
+              "bowler": "P Maya",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Tuba Hassan",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Eyman Fatima",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Eyman Fatima",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Tuba Hassan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Eyman Fatima",
+                  "fielders": [
+                    {
+                      "name": "P Maya"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Eman Naseer",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Tuba Hassan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Tuba Hassan",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Eman Naseer",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Tuba Hassan",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Eman Naseer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Tuba Hassan",
+              "bowler": "S Chaturongrattana",
+              "non_striker": "Eman Naseer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Tuba Hassan",
+                  "fielders": [
+                    {
+                      "name": "A Suwanchonrathi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Eman Naseer",
+              "bowler": "T Putthawong",
+              "non_striker": "Umm-e-Hani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Umm-e-Hani",
+              "bowler": "T Putthawong",
+              "non_striker": "Eman Naseer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Eman Naseer",
+              "bowler": "T Putthawong",
+              "non_striker": "Umm-e-Hani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Umm-e-Hani",
+              "bowler": "T Putthawong",
+              "non_striker": "Eman Naseer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.2,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 11,
+        "runs": 92
+      }
+    }
+  ]
+}
